@@ -1,0 +1,5 @@
+pycache/
+*.sql
+.venv/
+.env 
+docs
