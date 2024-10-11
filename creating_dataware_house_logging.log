@@ -522,3 +522,4 @@ Traceback (most recent call last):
   File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/scripts/createW_H_Impl.py", line 95, in real_time_message_handler
     mess_text = ' '.join(re.findall(text_reg, message.message))
 AttributeError: 'str' object has no attribute 'message'
+2024-10-11 18:35:20,433 - INFO - Got difference for channel 2197711891 updates
