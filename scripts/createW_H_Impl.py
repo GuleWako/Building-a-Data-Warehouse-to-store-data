@@ -5,7 +5,7 @@ import re
 import asyncio
 from telethon import TelegramClient, events
 from dotenv import load_dotenv
-
+from scripts.logging import logger
 # Apply nest_asyncio to allow nested event loops
 nest_asyncio.apply()
 
@@ -44,11 +44,12 @@ async def scrape_telegram_channels(channel):
     
     with open(csv_file, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['Message Date', 'Sender ID', 'Message ID', 'Product Description'])  # Write CSV header
+        writer.writerow(['Message Date', 'Sender ID', 'Message ID', 'Message Description'])  # Write CSV header
 
     for channel_username in channel:
         entity = await client.get_entity(channel_username)
         channel_title = entity.title
+        # logger.info(f"Scraping historical data from {channel_username} ({channel_title})...")
         print(f"Scraping historical data from {channel_username} ({channel_title})...")
 
         async for message in client.iter_messages(entity, limit=30):
@@ -61,24 +62,24 @@ async def scrape_telegram_channels(channel):
                 mess_text = re.sub(url_reg, '', mess_text)
                 
                 
-                
-                media_file = '[No Media]'
-                if channel_username in ['@CheMed123','@lobelia4cosmetics']:
-                    if message.media and hasattr(message.media, 'photo'):
-                            # Create a unique filename for the photo
-                            filename = f"{channel_username}_{message.id}.jpg"
-                            media_path = os.path.join(media_dir, filename)
-                            # Download the media to the specified directory if it's a photo
-                            await client.download_media(message.media, media_path)
-                            media_file = media_path
+                # # media_file = '[No Media]'
+                # if channel_username in ['@CheMed123','@lobelia4cosmetics']: 
+                #     if message.media and hasattr(message.media, 'photo'):
+                #             # Create a unique filename for the photo
+                #             filename = f"{channel_username}_{message.id}.jpg"
+                #             media_path = os.path.join(media_dir, filename)
+                #             # Download the media to the specified directory if it's a photo
+                #             await client.download_media(message.media, media_path)
+                #             media_file = media_path
                 if mess_text.strip(): 
                     message_date = message.date.strftime('%Y-%m-%d %H:%M:%S') if message.date else '[No Date]'
                     sender_id = message.sender_id if message.sender_id else '[No Sender ID]'
                     write_to_csv(message_date, sender_id, message.id, mess_text)
             
-    
-        print(f"Finished scraping {channel_username}")
-    print("Listening for real-time messages...")
+        logger.info(f"Finished scraping {channel_username}")
+        # print(f"Finished scraping {channel_username}")
+    logger.info("Listening for real-time messages...")
+    # print("Listening for real-time messages...")
     client.run_until_disconnected() 
     
 
@@ -99,7 +100,8 @@ async def real_time_message_handler(event):
             message_date = event.message.date.strftime('%Y-%m-%d %H:%M:%S')
             sender_id = event.message.sender_id if event.message.sender_id else '[No Sender ID]'
             write_to_csv(message_date, sender_id, event.message.id, mess_text)
-            print(f"New message added to CSV: {mess_text}")
+            logger.info(f"New message added to CSV: {mess_text}")
+            # print(f"New message added to CSV: {mess_text}")
 
 def start_scraping(channel):
     """
@@ -107,8 +109,9 @@ def start_scraping(channel):
     Args:
     channel : A list of Telegram channel usernames to scrape.
     """
-   
-    print("Scrapping data...")
+    
+    logger.info("Scrapping data...")
+    # print("Scrapping data...")
     # scrape_telegram_channels(channel) 
     asyncio.run(scrape_telegram_channels(channel))
     
