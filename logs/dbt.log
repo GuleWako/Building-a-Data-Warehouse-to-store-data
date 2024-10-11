@@ -1,0 +1,120 @@
+[0m12:20:59.416564 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd072032170>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd072d52560>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd072d52500>]}
+
+
+============================== 12:20:59.419838 | ea5082b2-152e-4526-b3ac-ec0e23149923 ==============================
+[0m12:20:59.419838 [info ] [MainThread]: Running with dbt=1.9.0-b2
+[0m12:20:59.420383 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'version_check': 'True', 'log_path': 'logs', 'profiles_dir': '/home/osho/.dbt', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'log_format': 'default', 'static_parser': 'True', 'invocation_command': 'dbt init', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m12:20:59.426560 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse dict {'dir': PosixPath('/home/osho/.dbt')}
+[0m12:20:59.427349 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m12:21:04.029333 [error] [MainThread]: Encountered an error:
+
+[0m12:21:04.032182 [error] [MainThread]: Traceback (most recent call last):
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/dbt/cli/requires.py", line 153, in wrapper
+    result, success = func(*args, **kwargs)
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/dbt/cli/requires.py", line 103, in wrapper
+    return func(*args, **kwargs)
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/dbt/cli/main.py", line 477, in init
+    results = task.run()
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/dbt/task/init.py", line 324, in run
+    project_name = self.get_valid_project_name()
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/dbt/task/init.py", line 278, in get_valid_project_name
+    name = click.prompt("Enter a name for your project (letters, digits, underscore)")
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/click/termui.py", line 164, in prompt
+    value = prompt_func(prompt)
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/click/termui.py", line 147, in prompt_func
+    raise Abort() from None
+click.exceptions.Abort
+
+[0m12:21:04.112573 [debug] [MainThread]: Resource report: {"command_name": "init", "command_wall_clock_time": 4.746323, "process_user_time": 1.237522, "process_kernel_time": 0.043714, "process_mem_max_rss": "86708", "process_in_blocks": "2192", "process_out_blocks": "8", "command_success": false}
+[0m12:21:04.115573 [debug] [MainThread]: Command `dbt init` failed at 12:21:04.115061 after 4.75 seconds
+[0m12:21:04.117715 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd072032170>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd072d51c00>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fd072d5f0d0>]}
+[0m12:21:04.120056 [debug] [MainThread]: Flushing usage events
+[0m12:21:23.890861 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f6c4cb26170>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f6c4d9a6560>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f6c4d9a64a0>]}
+
+
+============================== 12:21:23.893013 | 17353bb3-17ed-455e-b2f1-6cc1a15e7437 ==============================
+[0m12:21:23.893013 [info ] [MainThread]: Running with dbt=1.9.0-b2
+[0m12:21:23.893774 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'version_check': 'True', 'fail_fast': 'False', 'log_path': 'logs', 'profiles_dir': '/home/osho/.dbt', 'debug': 'False', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'log_format': 'default', 'invocation_command': 'dbt init creating_data_ware_house', 'introspect': 'True', 'static_parser': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'send_anonymous_usage_stats': 'True'}
+[0m12:21:23.899889 [debug] [MainThread]: Starter project path: /home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/dbt/include/starter_project
+[0m12:21:23.902797 [info ] [MainThread]: 
+Your new dbt project "creating_data_ware_house" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m12:21:23.903521 [info ] [MainThread]: Setting up your profile.
+[0m12:23:19.174460 [info ] [MainThread]: Profile creating_data_ware_house written to /home/osho/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m12:23:19.176254 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 115.33611, "process_user_time": 1.155998, "process_kernel_time": 0.048059, "process_mem_max_rss": "91020", "process_in_blocks": "24", "process_out_blocks": "80"}
+[0m12:23:19.177361 [debug] [MainThread]: Command `dbt init` succeeded at 12:23:19.177141 after 115.34 seconds
+[0m12:23:19.178120 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f6c4cb26170>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f6c4d9a7c10>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7f6c4d9a6440>]}
+[0m12:23:19.178875 [debug] [MainThread]: Flushing usage events
+[0m12:23:20.470434 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m14:38:45.625458 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fac22e821a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fac23cfe560>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fac23cfe470>]}
+
+
+============================== 14:38:45.629690 | 575b643d-edb4-48fd-b11f-147755752f1d ==============================
+[0m14:38:45.629690 [info ] [MainThread]: Running with dbt=1.9.0-b2
+[0m14:38:45.630269 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'log_cache_events': 'False', 'write_json': 'True', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'debug': 'False', 'fail_fast': 'False', 'log_path': 'logs', 'version_check': 'True', 'profiles_dir': '/home/osho/.dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'no_print': 'None', 'quiet': 'False', 'empty': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'static_parser': 'True', 'log_format': 'default', 'invocation_command': 'dbt debug', 'target_path': 'None', 'introspect': 'True', 'send_anonymous_usage_stats': 'True'}
+[0m14:38:45.655685 [info ] [MainThread]: dbt version: 1.9.0-b2
+[0m14:38:45.656406 [info ] [MainThread]: python version: 3.10.12
+[0m14:38:45.656970 [info ] [MainThread]: python path: /home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/bin/python3
+[0m14:38:45.657467 [info ] [MainThread]: os info: Linux-5.15.0-91-generic-x86_64-with-glibc2.35
+[0m14:38:45.795388 [info ] [MainThread]: Using profiles dir at /home/osho/.dbt
+[0m14:38:45.795877 [info ] [MainThread]: Using profiles.yml file at /home/osho/.dbt/profiles.yml
+[0m14:38:45.796270 [info ] [MainThread]: Using dbt_project.yml file at /home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/dbt_project.yml
+[0m14:38:45.797096 [info ] [MainThread]: adapter type: postgres
+[0m14:38:45.797493 [info ] [MainThread]: adapter version: 1.8.2
+[0m14:38:45.797881 [info ] [MainThread]: Configuration:
+[0m14:38:45.798251 [info ] [MainThread]:   profiles.yml file [[32mOK found and valid[0m]
+[0m14:38:45.798618 [info ] [MainThread]:   dbt_project.yml file [[31mERROR not found[0m]
+[0m14:38:45.798983 [info ] [MainThread]: Required dependencies:
+[0m14:38:45.799466 [debug] [MainThread]: Executing "git --help"
+[0m14:38:45.801103 [debug] [MainThread]: STDOUT: "b"usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]\n           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]\n           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]\n           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]\n           [--super-prefix=<path>] [--config-env=<name>=<envvar>]\n           <command> [<args>]\n\nThese are common Git commands used in various situations:\n\nstart a working area (see also: git help tutorial)\n   clone     Clone a repository into a new directory\n   init      Create an empty Git repository or reinitialize an existing one\n\nwork on the current change (see also: git help everyday)\n   add       Add file contents to the index\n   mv        Move or rename a file, a directory, or a symlink\n   restore   Restore working tree files\n   rm        Remove files from the working tree and from the index\n\nexamine the history and state (see also: git help revisions)\n   bisect    Use binary search to find the commit that introduced a bug\n   diff      Show changes between commits, commit and working tree, etc\n   grep      Print lines matching a pattern\n   log       Show commit logs\n   show      Show various types of objects\n   status    Show the working tree status\n\ngrow, mark and tweak your common history\n   branch    List, create, or delete branches\n   commit    Record changes to the repository\n   merge     Join two or more development histories together\n   rebase    Reapply commits on top of another base tip\n   reset     Reset current HEAD to the specified state\n   switch    Switch branches\n   tag       Create, list, delete or verify a tag object signed with GPG\n\ncollaborate (see also: git help workflows)\n   fetch     Download objects and refs from another repository\n   pull      Fetch from and integrate with another repository or a local branch\n   push      Update remote refs along with associated objects\n\n'git help -a' and 'git help -g' list available subcommands and some\nconcept guides. See 'git help <command>' or 'git help <concept>'\nto read about a specific subcommand or concept.\nSee 'git help git' for an overview of the system.\n""
+[0m14:38:45.801730 [debug] [MainThread]: STDERR: "b''"
+[0m14:38:45.802177 [info ] [MainThread]:  - git [[32mOK found[0m]
+
+[0m14:38:45.802603 [info ] [MainThread]: Connection:
+[0m14:38:45.803007 [info ] [MainThread]:   host: localhost
+[0m14:38:45.803408 [info ] [MainThread]:   port: 5432
+[0m14:38:45.803795 [info ] [MainThread]:   user: postgres
+[0m14:38:45.804181 [info ] [MainThread]:   database: db_ware_house
+[0m14:38:45.804576 [info ] [MainThread]:   schema: db_ware_house_shema
+[0m14:38:45.804983 [info ] [MainThread]:   connect_timeout: 10
+[0m14:38:45.805406 [info ] [MainThread]:   role: None
+[0m14:38:45.805825 [info ] [MainThread]:   search_path: None
+[0m14:38:45.806244 [info ] [MainThread]:   keepalives_idle: 0
+[0m14:38:45.806694 [info ] [MainThread]:   sslmode: None
+[0m14:38:45.807086 [info ] [MainThread]:   sslcert: None
+[0m14:38:45.807465 [info ] [MainThread]:   sslkey: None
+[0m14:38:45.808001 [info ] [MainThread]:   sslrootcert: None
+[0m14:38:45.808478 [info ] [MainThread]:   application_name: dbt
+[0m14:38:45.808936 [info ] [MainThread]:   retries: 1
+[0m14:38:45.809726 [info ] [MainThread]: Registered adapter: postgres=1.8.2
+[0m14:38:45.812163 [debug] [MainThread]: Acquiring new postgres connection 'debug'
+[0m14:38:45.859113 [debug] [MainThread]: Using postgres connection "debug"
+[0m14:38:45.859944 [debug] [MainThread]: On debug: select 1 as id
+[0m14:38:45.860606 [debug] [MainThread]: Opening a new connection, currently in state init
+[0m14:38:45.889068 [debug] [MainThread]: SQL status: SELECT 1 in 0.028 seconds
+[0m14:38:45.890159 [debug] [MainThread]: On debug: Close
+[0m14:38:45.890644 [info ] [MainThread]:   Connection test: [[32mOK connection ok[0m]
+
+[0m14:38:45.891085 [info ] [MainThread]: [31m1 check failed:[0m
+[0m14:38:45.891498 [info ] [MainThread]: Project loading failed for the following reason:
+ project path </home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/dbt_project.yml> not found
+
+[0m14:38:45.892407 [debug] [MainThread]: Resource report: {"command_name": "debug", "command_wall_clock_time": 0.31785628, "process_user_time": 1.714106, "process_kernel_time": 0.18956, "process_mem_max_rss": "99384", "process_in_blocks": "61480", "process_out_blocks": "32", "command_success": false}
+[0m14:38:45.893039 [debug] [MainThread]: Command `dbt debug` failed at 14:38:45.892928 after 0.32 seconds
+[0m14:38:45.893484 [debug] [MainThread]: Connection 'debug' was properly closed.
+[0m14:38:45.893939 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fac22e821a0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fac218bcfa0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fac218a1f60>]}
+[0m14:38:45.894427 [debug] [MainThread]: Flushing usage events
+[0m14:38:47.370303 [debug] [MainThread]: An error was encountered while trying to flush usage events

@@ -1,0 +1,46 @@
+version: 2
+
+sources:
+  - name: raw_data
+    schema: db_ware_house_shema
+    tables:
+      - name: telegram_data
+        description: "The source table containing scraped Telegram messages"
+        columns:
+          - name: id
+            description: "The primary key for this table"
+            tests:
+              - unique: {}
+              - not_null: {}
+          - name: message_date
+            description: "The date of the message"
+            tests:
+              - not_null: {}
+          - name: message_id
+            description: "The unique ID of the message"
+            tests:
+              - not_null: {}
+          - name: message_description
+            description: "The content of the message"
+            tests:
+              - not_null: {}
+
+
+seeds:
+  - name: creating_data_ware_house
+    description: "This project contains data transformations for scraped Telegram data."
+    tables:
+      - name: telegram_data
+        description: "This seed contains scraped data from Telegram messages for analysis."
+        columns:
+          - name: id
+            description: "The unique identifier for each message."
+          - name: message_date
+            description: "The date when the message was sent."
+          - name: sender_id
+            description: "The ID of the sender of the message."
+          - name: message_id
+            description: "The unique ID for each message."
+          - name: message_description
+            description: "The text content of the message."
+

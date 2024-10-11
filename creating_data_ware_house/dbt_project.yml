@@ -1,0 +1,18 @@
+name: 'creating_data_ware_house'
+version: '1.0.0'
+profile: 'my_postgres_profile'
+
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:  
+  - "target"
+  - "dbt_packages"
+seeds:
+  creating_data_ware_house:
+    telegram_data:
+      materialized: seed

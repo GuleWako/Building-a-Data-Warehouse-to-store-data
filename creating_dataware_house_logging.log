@@ -417,3 +417,101 @@
 2024-10-11 10:07:51,668 - INFO - Finished scraping @EAHCI
 2024-10-11 10:07:52,114 - INFO - Finished scraping @CheMed123
 2024-10-11 10:07:52,119 - INFO - Listening for real-time messages...
+2024-10-11 10:17:55,774 - INFO - Got difference for account updates
+2024-10-11 10:24:23,755 - INFO - Got difference for account updates
+2024-10-11 10:25:47,396 - INFO - Got difference for account updates
+2024-10-11 10:38:51,285 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 10:59:02,877 - INFO - Got difference for account updates
+2024-10-11 11:03:51,744 - INFO - Closing current connection to begin reconnect...
+2024-10-11 11:03:51,749 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 11:04:01,763 - WARNING - Attempt 1 at connecting failed: TimeoutError: 
+2024-10-11 11:04:12,778 - WARNING - Attempt 2 at connecting failed: TimeoutError: 
+2024-10-11 11:04:23,794 - WARNING - Attempt 3 at connecting failed: TimeoutError: 
+2024-10-11 11:04:34,810 - WARNING - Attempt 4 at connecting failed: TimeoutError: 
+2024-10-11 11:04:45,827 - WARNING - Attempt 5 at connecting failed: TimeoutError: 
+2024-10-11 11:04:49,362 - WARNING - Attempt 6 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:04:50,367 - INFO - Failed reconnection attempt 1 with ConnectionError
+2024-10-11 11:04:51,372 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 11:04:52,330 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:04:55,402 - WARNING - Attempt 2 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:05:00,233 - WARNING - Attempt 3 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:05:03,306 - WARNING - Attempt 4 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:05:06,382 - WARNING - Attempt 5 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:05:09,453 - WARNING - Attempt 6 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:05:10,455 - INFO - Failed reconnection attempt 2 with ConnectionError
+2024-10-11 11:05:11,458 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 11:05:12,521 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 113] Connect call failed ('149.154.167.92', 443)
+2024-10-11 11:05:13,523 - WARNING - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:14,525 - WARNING - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:15,528 - WARNING - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:16,532 - WARNING - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:17,538 - WARNING - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:18,543 - INFO - Failed reconnection attempt 3 with ConnectionError
+2024-10-11 11:05:19,548 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 11:05:19,552 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:20,558 - WARNING - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:21,564 - WARNING - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:22,568 - WARNING - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:23,573 - WARNING - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:24,580 - WARNING - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:25,584 - INFO - Failed reconnection attempt 4 with ConnectionError
+2024-10-11 11:05:26,589 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 11:05:26,594 - WARNING - Attempt 1 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:27,599 - WARNING - Attempt 2 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:28,605 - WARNING - Attempt 3 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:29,610 - WARNING - Attempt 4 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:30,614 - WARNING - Attempt 5 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:31,622 - WARNING - Attempt 6 at connecting failed: OSError: [Errno 101] Network is unreachable
+2024-10-11 11:05:32,625 - INFO - Failed reconnection attempt 5 with ConnectionError
+2024-10-11 11:05:33,629 - ERROR - Automatic reconnection failed 5 time(s)
+2024-10-11 11:05:33,633 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2024-10-11 11:05:33,637 - ERROR - Future exception was never retrieved
+future: <Future finished exception=ConnectionError('Connection to Telegram failed 5 time(s)')>
+ConnectionError: Connection to Telegram failed 5 time(s)
+2024-10-11 11:05:33,642 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2024-10-11 11:05:33,646 - INFO - Cannot get difference for channel 1072804175 since the network is down: ConnectionError: Connection to Telegram failed 5 time(s)
+2024-10-11 16:21:28,450 - INFO - Scrapping data...
+2024-10-11 16:21:28,452 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 16:21:28,652 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 16:21:29,975 - INFO - Finished scraping @DoctorsET
+2024-10-11 16:21:30,337 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 16:21:30,719 - INFO - Finished scraping @yetenaweg
+2024-10-11 16:21:31,140 - INFO - Finished scraping @EAHCI
+2024-10-11 16:21:31,565 - INFO - Finished scraping @CheMed123
+2024-10-11 16:21:31,566 - INFO - Listening for real-time messages...
+2024-10-11 16:36:30,931 - INFO - Got difference for channel 1242392095 updates
+2024-10-11 16:36:31,433 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 16:48:32,107 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 16:49:31,458 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 16:51:35,307 - INFO - Scrapping data...
+2024-10-11 16:51:35,309 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 16:51:35,442 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 16:51:36,883 - INFO - Finished scraping @DoctorsET
+2024-10-11 16:51:37,423 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 16:51:37,852 - INFO - Finished scraping @yetenaweg
+2024-10-11 16:51:38,381 - INFO - Finished scraping @EAHCI
+2024-10-11 16:51:38,791 - INFO - Finished scraping @CheMed123
+2024-10-11 16:51:38,791 - INFO - Listening for real-time messages...
+2024-10-11 16:55:57,837 - INFO - Got difference for account updates
+2024-10-11 17:00:37,828 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:02:38,115 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:10:58,245 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:16:21,373 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:22:19,322 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:29:08,418 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:36:39,670 - INFO - Closing current connection to begin reconnect...
+2024-10-11 17:36:39,680 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 17:36:39,869 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 17:37:38,867 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:38:40,651 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:39:40,001 - INFO - Got difference for channel 1377094832 updates
+2024-10-11 17:40:58,431 - INFO - Got difference for account updates
+2024-10-11 17:40:58,576 - INFO - Got difference for channel 1193582142 updates
+2024-10-11 17:56:27,478 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 17:58:41,217 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 18:08:17,376 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 18:10:58,726 - INFO - Got difference for account updates
+2024-10-11 18:10:58,878 - INFO - Got difference for channel 1673155480 updates
+2024-10-11 18:10:59,052 - INFO - Got difference for channel 1072804175 updates
+2024-10-11 18:13:41,679 - INFO - Got difference for channel 2197711891 updates
+2024-10-11 18:14:41,686 - INFO - Got difference for channel 2197711891 updates

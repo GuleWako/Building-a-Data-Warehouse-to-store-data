@@ -1,0 +1,13 @@
+my_postgres_profile:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost         
+      user: postgres      
+      password: admin  
+      port: 5432               
+      dbname: db_ware_house    
+      schema: db_ware_house_shema
+      threads: 4            
+  
