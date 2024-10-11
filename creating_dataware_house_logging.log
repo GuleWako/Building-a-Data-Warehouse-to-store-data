@@ -1,0 +1,419 @@
+2024-10-11 09:55:59,212 - INFO - Scrapping data...
+2024-10-11 09:55:59,214 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 09:55:59,490 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 09:56:33,005 - INFO - Scraping historical data from @DoctorsET (Doctors Ethiopia)...
+2024-10-11 09:56:33,479 - INFO - Finished scraping @DoctorsET
+2024-10-11 09:56:33,625 - INFO - Scraping historical data from @lobelia4cosmetics (Lobelia pharmacy and cosmetics)...
+2024-10-11 09:56:34,297 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 09:56:34,431 - INFO - Scraping historical data from @yetenaweg (የጤና ወግ - የጤና መረጃ)...
+2024-10-11 09:56:35,595 - INFO - Finished scraping @yetenaweg
+2024-10-11 09:56:36,310 - INFO - Scraping historical data from @EAHCI (ETHIO-AMERICAN MEDICAL TRAININGS( CPD ) & HEALTH CONSULTANCY CENTER)...
+2024-10-11 09:56:36,798 - INFO - Finished scraping @EAHCI
+2024-10-11 09:56:37,769 - INFO - Scraping historical data from @CheMed123 (CheMed)...
+2024-10-11 09:56:38,071 - INFO - Finished scraping @CheMed123
+2024-10-11 09:56:38,075 - INFO - Listening for real-time messages...
+2024-10-11 10:00:29,888 - INFO - Scrapping data...
+2024-10-11 10:00:29,889 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 10:00:30,037 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 10:00:31,429 - INFO - Scraping historical data from @DoctorsET (Doctors Ethiopia)...
+2024-10-11 10:00:31,657 - INFO - Finished scraping @DoctorsET
+2024-10-11 10:00:31,785 - INFO - Scraping historical data from @lobelia4cosmetics (Lobelia pharmacy and cosmetics)...
+2024-10-11 10:00:32,329 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:32,337 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:32,717 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:32,721 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:33,035 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:33,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:33,207 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:33,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:34,014 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:34,018 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:34,184 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:34,188 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:34,339 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:34,340 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:34,537 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:34,541 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:34,763 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:34,764 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:35,428 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:35,432 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:36,829 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:36,831 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:37,023 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:37,031 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:37,225 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:37,229 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:37,534 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:37,538 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:37,741 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:37,749 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:38,185 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:38,191 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:38,460 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:38,462 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:38,693 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:38,694 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:39,094 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:39,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:39,581 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:39,584 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:40,043 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:40,045 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:40,563 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:40,564 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:41,214 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:41,215 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:41,603 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:41,605 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:43,261 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:43,266 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:43,675 - INFO - Collecting image from @lobelia4cosmetics
+2024-10-11 10:00:43,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:44,204 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 10:00:44,600 - INFO - Scraping historical data from @yetenaweg (የጤና ወግ - የጤና መረጃ)...
+2024-10-11 10:00:45,363 - INFO - Finished scraping @yetenaweg
+2024-10-11 10:00:45,520 - INFO - Scraping historical data from @EAHCI (ETHIO-AMERICAN MEDICAL TRAININGS( CPD ) & HEALTH CONSULTANCY CENTER)...
+2024-10-11 10:00:45,724 - INFO - Finished scraping @EAHCI
+2024-10-11 10:00:46,659 - INFO - Scraping historical data from @CheMed123 (CheMed)...
+2024-10-11 10:00:47,124 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:47,129 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:47,378 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:47,383 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:48,078 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:48,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:48,374 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:48,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:48,592 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:48,593 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:49,031 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:49,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:49,502 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:49,502 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:49,745 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:49,749 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:50,299 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:50,300 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:50,301 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:50,727 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:50,729 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:51,112 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:51,113 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:52,062 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:52,063 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:52,242 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:52,243 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:52,437 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:52,438 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:52,819 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:52,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:53,090 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:53,092 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:53,537 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:53,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:54,370 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:54,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:54,952 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:54,957 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:00:55,437 - INFO - Collecting image from @CheMed123
+2024-10-11 10:00:55,442 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:52,492 - INFO - Scrapping data...
+2024-10-11 10:01:52,494 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 10:01:52,835 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 10:01:54,377 - INFO - Scraping historical data from @DoctorsET (Doctors Ethiopia)...
+2024-10-11 10:01:55,137 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,141 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,144 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,147 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,152 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,156 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,161 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,166 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,172 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,176 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,181 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,190 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,196 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,201 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,209 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,216 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,225 - INFO - Image Collected from @DoctorsET
+2024-10-11 10:01:55,232 - INFO - Finished scraping @DoctorsET
+2024-10-11 10:01:55,483 - INFO - Scraping historical data from @lobelia4cosmetics (Lobelia pharmacy and cosmetics)...
+2024-10-11 10:01:56,020 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:56,376 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:56,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:56,640 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:56,642 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:56,791 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:56,792 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:57,019 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:57,020 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:57,236 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:57,239 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:57,577 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:57,583 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:57,750 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:57,755 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:58,014 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:58,016 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:58,440 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:58,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:58,741 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:58,742 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:58,925 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:58,926 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:59,093 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:59,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:59,262 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:59,266 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:59,431 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:59,433 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:01:59,848 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:01:59,850 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:00,079 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:00,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:00,282 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:00,283 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:00,448 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:00,454 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:00,970 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:00,971 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:01,453 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:01,455 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:02,022 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:02,023 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:02,422 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:02,423 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:02,945 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:02,950 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:04,261 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:04,267 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:04,800 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:04,803 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:05,336 - INFO - Image Collected from @lobelia4cosmetics
+2024-10-11 10:02:05,340 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 10:02:05,609 - INFO - Scraping historical data from @yetenaweg (የጤና ወግ - የጤና መረጃ)...
+2024-10-11 10:02:05,853 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,854 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,855 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,857 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,859 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,860 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,861 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,861 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,862 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,863 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,863 - INFO - Image Collected from @yetenaweg
+2024-10-11 10:02:05,864 - INFO - Finished scraping @yetenaweg
+2024-10-11 10:02:06,005 - INFO - Scraping historical data from @EAHCI (ETHIO-AMERICAN MEDICAL TRAININGS( CPD ) & HEALTH CONSULTANCY CENTER)...
+2024-10-11 10:02:06,247 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,247 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,249 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,249 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,250 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,251 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,251 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,252 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,252 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,253 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,254 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,255 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,256 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,258 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,259 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,260 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,261 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,262 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,264 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,264 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,266 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,266 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,267 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,268 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,268 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,269 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,270 - INFO - Image Collected from @EAHCI
+2024-10-11 10:02:06,271 - INFO - Finished scraping @EAHCI
+2024-10-11 10:02:06,402 - INFO - Scraping historical data from @CheMed123 (CheMed)...
+2024-10-11 10:02:06,933 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:07,678 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:07,679 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:08,574 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:08,581 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:09,035 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:09,042 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:09,380 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:09,381 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:09,975 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:09,976 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:11,012 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:11,014 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:11,415 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:11,417 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:13,029 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:13,034 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:13,040 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:02:14,156 - INFO - Image Collected from @CheMed123
+2024-10-11 10:02:14,162 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:03:53,950 - INFO - Closing current connection to begin reconnect...
+2024-10-11 10:04:02,707 - INFO - Scrapping data...
+2024-10-11 10:04:02,709 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 10:04:03,763 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 10:04:06,137 - INFO - Scraping historical data from @DoctorsET (Doctors Ethiopia)...
+2024-10-11 10:04:06,884 - INFO - Collecting Image...
+2024-10-11 10:04:06,888 - INFO - Collecting Image...
+2024-10-11 10:04:06,893 - INFO - Collecting Image...
+2024-10-11 10:04:06,897 - INFO - Collecting Image...
+2024-10-11 10:04:06,902 - INFO - Collecting Image...
+2024-10-11 10:04:06,907 - INFO - Collecting Image...
+2024-10-11 10:04:06,913 - INFO - Collecting Image...
+2024-10-11 10:04:06,919 - INFO - Collecting Image...
+2024-10-11 10:04:06,925 - INFO - Collecting Image...
+2024-10-11 10:04:06,929 - INFO - Collecting Image...
+2024-10-11 10:04:06,939 - INFO - Collecting Image...
+2024-10-11 10:04:06,947 - INFO - Collecting Image...
+2024-10-11 10:04:06,952 - INFO - Collecting Image...
+2024-10-11 10:04:06,960 - INFO - Collecting Image...
+2024-10-11 10:04:06,965 - INFO - Collecting Image...
+2024-10-11 10:04:06,968 - INFO - Collecting Image...
+2024-10-11 10:04:06,971 - INFO - Collecting Image...
+2024-10-11 10:04:06,974 - INFO - Finished scraping @DoctorsET
+2024-10-11 10:04:07,252 - INFO - Scraping historical data from @lobelia4cosmetics (Lobelia pharmacy and cosmetics)...
+2024-10-11 10:04:07,672 - INFO - Collecting Image...
+2024-10-11 10:04:07,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:08,231 - INFO - Collecting Image...
+2024-10-11 10:04:08,235 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:08,644 - INFO - Collecting Image...
+2024-10-11 10:04:08,645 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:08,851 - INFO - Collecting Image...
+2024-10-11 10:04:08,852 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:09,188 - INFO - Collecting Image...
+2024-10-11 10:04:09,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:09,397 - INFO - Collecting Image...
+2024-10-11 10:04:09,398 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:09,611 - INFO - Collecting Image...
+2024-10-11 10:04:09,612 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:09,796 - INFO - Collecting Image...
+2024-10-11 10:04:09,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:10,028 - INFO - Collecting Image...
+2024-10-11 10:04:10,029 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:10,839 - INFO - Collecting Image...
+2024-10-11 10:04:10,844 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:11,147 - INFO - Collecting Image...
+2024-10-11 10:04:11,149 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:11,325 - INFO - Collecting Image...
+2024-10-11 10:04:11,326 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:11,496 - INFO - Collecting Image...
+2024-10-11 10:04:11,497 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:11,729 - INFO - Collecting Image...
+2024-10-11 10:04:11,730 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:12,031 - INFO - Collecting Image...
+2024-10-11 10:04:12,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:12,645 - INFO - Collecting Image...
+2024-10-11 10:04:12,649 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:14,494 - INFO - Collecting Image...
+2024-10-11 10:04:14,497 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:27,643 - INFO - Scrapping data...
+2024-10-11 10:04:27,644 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 10:04:27,816 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 10:04:28,762 - INFO - Scraping historical data from @DoctorsET (Doctors Ethiopia)...
+2024-10-11 10:04:28,977 - INFO - Finished scraping @DoctorsET
+2024-10-11 10:04:29,239 - INFO - Scraping historical data from @lobelia4cosmetics (Lobelia pharmacy and cosmetics)...
+2024-10-11 10:04:29,471 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:29,871 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:30,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:30,354 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:30,612 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:30,797 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:31,021 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:31,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:31,489 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:31,962 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:32,252 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:32,492 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:32,655 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:32,845 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:33,012 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:33,503 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:33,751 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:34,003 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:34,156 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:34,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:35,181 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:35,591 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:37,104 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:37,812 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:39,159 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:39,589 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:40,155 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 10:04:40,542 - INFO - Scraping historical data from @yetenaweg (የጤና ወግ - የጤና መረጃ)...
+2024-10-11 10:04:41,108 - INFO - Finished scraping @yetenaweg
+2024-10-11 10:04:41,289 - INFO - Scraping historical data from @EAHCI (ETHIO-AMERICAN MEDICAL TRAININGS( CPD ) & HEALTH CONSULTANCY CENTER)...
+2024-10-11 10:04:41,533 - INFO - Finished scraping @EAHCI
+2024-10-11 10:04:41,794 - INFO - Scraping historical data from @CheMed123 (CheMed)...
+2024-10-11 10:04:42,052 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:42,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:42,902 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:43,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:43,786 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:44,995 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:45,969 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:46,828 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:47,920 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:48,756 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:49,873 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:50,787 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:51,213 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:52,263 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:53,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:53,960 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:57,793 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:58,636 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:04:59,837 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:01,469 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:03,475 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:04,328 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:05,276 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:06,020 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:06,425 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:05:06,962 - INFO - Finished scraping @CheMed123
+2024-10-11 10:05:06,962 - INFO - Listening for real-time messages...
+2024-10-11 10:06:04,348 - INFO - Scrapping data...
+2024-10-11 10:06:04,350 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 10:06:04,778 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 10:06:08,727 - INFO - Finished scraping @DoctorsET
+2024-10-11 10:06:09,483 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:11,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:13,868 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:14,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:15,840 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:17,334 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:17,931 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:18,877 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:20,636 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:25,334 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:27,065 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:27,548 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:28,673 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:29,616 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:31,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:35,786 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:37,467 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:40,386 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:41,969 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:45,988 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:51,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:54,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:06:59,948 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:07:06,426 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:07:12,531 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-11 10:07:48,154 - INFO - Scrapping data...
+2024-10-11 10:07:48,155 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-11 10:07:48,344 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-11 10:07:50,169 - INFO - Finished scraping @DoctorsET
+2024-10-11 10:07:50,570 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-11 10:07:51,038 - INFO - Finished scraping @yetenaweg
+2024-10-11 10:07:51,668 - INFO - Finished scraping @EAHCI
+2024-10-11 10:07:52,114 - INFO - Finished scraping @CheMed123
+2024-10-11 10:07:52,119 - INFO - Listening for real-time messages...
