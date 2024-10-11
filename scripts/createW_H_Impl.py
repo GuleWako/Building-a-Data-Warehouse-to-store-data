@@ -19,13 +19,12 @@ client = TelegramClient('scraping_session', api_id, api_hash)
 
 # Define the CSV file to store the data
 csv_file = 'telegram_data.csv'
-def write_to_csv(message_date, sender_id, message_id, message_text):
+def write_to_csv(message_date, message_id, message_text):
     """Append a message to the CSV file."""
     with open(csv_file, 'a', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
         writer.writerow([
             message_date, 
-            sender_id,
             message_id,
             message_text.strip(),
            
@@ -44,7 +43,7 @@ async def scrape_telegram_channels(channel):
     
     with open(csv_file, 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)
-        writer.writerow(['Message Date', 'Sender ID', 'Message ID', 'Message Description'])  # Write CSV header
+        writer.writerow(['message_date', 'message_id', 'message_description'])  # Write CSV header
 
     for channel_username in channel:
         entity = await client.get_entity(channel_username)
@@ -74,7 +73,7 @@ async def scrape_telegram_channels(channel):
                 if mess_text.strip(): 
                     message_date = message.date.strftime('%Y-%m-%d %H:%M:%S') if message.date else '[No Date]'
                     sender_id = message.sender_id if message.sender_id else '[No Sender ID]'
-                    write_to_csv(message_date, sender_id, message.id, mess_text)
+                    write_to_csv(message_date, message.id, mess_text)
             
         logger.info(f"Finished scraping {channel_username}")
         # print(f"Finished scraping {channel_username}")
