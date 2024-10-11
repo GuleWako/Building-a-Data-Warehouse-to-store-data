@@ -61,15 +61,15 @@ async def scrape_telegram_channels(channel):
                 mess_text = re.sub(url_reg, '', mess_text)
                 
                 
-                # # media_file = '[No Media]'
-                # if channel_username in ['@CheMed123','@lobelia4cosmetics']: 
-                #     if message.media and hasattr(message.media, 'photo'):
-                #             # Create a unique filename for the photo
-                #             filename = f"{channel_username}_{message.id}.jpg"
-                #             media_path = os.path.join(media_dir, filename)
-                #             # Download the media to the specified directory if it's a photo
-                #             await client.download_media(message.media, media_path)
-                #             media_file = media_path
+                # media_file = '[No Media]'
+                if channel_username in ['@CheMed123','@lobelia4cosmetics']: 
+                    if message.media and hasattr(message.media, 'photo'):
+                            # Create a unique filename for the photo
+                            filename = f"{channel_username}_{message.id}.jpg"
+                            media_path = os.path.join(media_dir, filename)
+                            # Download the media to the specified directory if it's a photo
+                            await client.download_media(message.media, media_path)
+                            media_file = media_path
                 if mess_text.strip(): 
                     message_date = message.date.strftime('%Y-%m-%d %H:%M:%S') if message.date else '[No Date]'
                     sender_id = message.sender_id if message.sender_id else '[No Sender ID]'
