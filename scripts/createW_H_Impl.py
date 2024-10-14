@@ -38,7 +38,8 @@ async def scrape_telegram_channels(channel):
     Args:
     channel : A Telegram channel username to scrape.
     """
-    media_dir='photos'
+    media_dir = os.path.join('yolov5', 'data','images')
+    os.makedirs(media_dir, exist_ok=True)
     await client.start() 
     
     with open(csv_file, 'w', newline='', encoding='utf-8') as file:
