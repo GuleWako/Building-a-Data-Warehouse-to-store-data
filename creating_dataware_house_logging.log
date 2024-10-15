@@ -815,3 +815,1759 @@ AttributeError: 'str' object has no attribute 'message'
 2024-10-14 20:19:48,706 - INFO - Got difference for channel 1898050779 updates
 2024-10-14 20:20:02,209 - INFO - Got difference for channel 1898050779 updates
 2024-10-14 20:23:28,783 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 11:24:08,742 - INFO - Scrapping data...
+2024-10-15 11:24:08,745 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 11:24:08,989 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 11:24:09,908 - INFO - Finished scraping @DoctorsET
+2024-10-15 11:24:10,213 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:10,574 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:10,745 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:10,917 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:11,158 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:11,501 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:11,912 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:12,233 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:12,444 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:12,597 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:12,782 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:13,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:13,345 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:13,529 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:13,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:14,071 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:14,219 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:14,429 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:14,661 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:14,838 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:15,043 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:15,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:15,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:15,843 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:16,263 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:16,452 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:16,812 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:17,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:17,322 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 11:24:17,638 - INFO - Finished scraping @yetenaweg
+2024-10-15 11:24:17,952 - INFO - Finished scraping @EAHCI
+2024-10-15 11:24:18,393 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:18,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:18,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:19,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:19,547 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:19,930 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:20,274 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:20,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:20,931 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:21,328 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:21,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:22,179 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:22,405 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:22,602 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:22,966 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:23,197 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:23,552 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:23,884 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:24,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:24,543 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:24,888 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:25,264 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:25,616 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:26,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:26,296 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 11:24:26,692 - INFO - Finished scraping @CheMed123
+2024-10-15 11:24:26,693 - INFO - Listening for real-time messages...
+2024-10-15 14:14:23,108 - INFO - Closing current connection to begin reconnect...
+2024-10-15 14:14:23,110 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 14:14:23,316 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 14:14:23,520 - WARNING - Server resent the older message 7425959215943486465, ignoring
+2024-10-15 14:24:22,286 - INFO - Got difference for account updates
+2024-10-15 14:24:22,511 - INFO - Got difference for account updates
+2024-10-15 14:24:22,686 - INFO - Got difference for channel 1328631496 updates
+2024-10-15 14:24:22,896 - INFO - Got difference for channel 1072804175 updates
+2024-10-15 14:24:23,097 - INFO - Got difference for channel 2103182289 updates
+2024-10-15 14:24:23,298 - INFO - Got difference for channel 1185190358 updates
+2024-10-15 14:24:23,506 - INFO - Got difference for channel 1746452087 updates
+2024-10-15 14:24:23,725 - INFO - Got difference for channel 1673155480 updates
+2024-10-15 14:24:23,915 - INFO - Got difference for channel 1307493052 updates
+2024-10-15 14:24:24,102 - INFO - Got difference for channel 1338753591 updates
+2024-10-15 14:39:25,203 - INFO - Got difference for channel 1338753591 updates
+2024-10-15 14:54:03,648 - INFO - Got difference for channel 1338753591 updates
+2024-10-15 14:54:23,884 - INFO - Got difference for channel 1878217245 updates
+2024-10-15 15:01:10,527 - INFO - Scrapping data...
+2024-10-15 15:01:10,530 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:01:10,634 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:01:11,668 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:01:11,988 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:12,373 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:12,806 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:13,065 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:13,266 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:13,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:13,904 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:14,340 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:14,673 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:14,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:15,487 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:15,864 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:16,446 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:16,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:16,957 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:17,983 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:18,183 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:18,348 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:18,561 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:18,789 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:18,983 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:19,277 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:19,619 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:19,757 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:20,166 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:20,578 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:20,772 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:21,213 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:21,696 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:01:22,075 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:01:22,457 - INFO - Finished scraping @EAHCI
+2024-10-15 15:01:22,765 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:23,055 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:23,478 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:23,792 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:24,094 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:24,494 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:24,972 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:25,224 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:25,684 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:26,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:26,989 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:27,998 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:29,029 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:29,531 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:29,896 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:30,120 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:30,547 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:30,904 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:31,596 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:31,932 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:32,271 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:32,676 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:33,112 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:33,540 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:33,823 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:01:34,087 - INFO - Finished scraping @CheMed123
+2024-10-15 15:01:34,087 - INFO - Listening for real-time messages...
+2024-10-15 15:03:18,147 - INFO - Scrapping data...
+2024-10-15 15:03:18,149 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:03:18,318 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:03:19,393 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:03:19,692 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:20,031 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:20,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:20,462 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:20,624 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:20,830 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:21,172 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:21,605 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:21,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:22,152 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:22,309 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:22,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:22,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:23,063 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:23,209 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:23,559 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:23,732 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:23,885 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:24,099 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:24,324 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:24,491 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:24,740 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:24,904 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:25,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:25,495 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:25,992 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:26,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:26,695 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:27,174 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:03:27,596 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:03:27,986 - INFO - Finished scraping @EAHCI
+2024-10-15 15:03:28,334 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:28,533 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:29,005 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:29,205 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:29,402 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:29,758 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:30,136 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:30,409 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:30,845 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:31,170 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:31,739 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:32,176 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:32,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:32,548 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:32,881 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:33,056 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:33,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:33,794 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:34,176 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:34,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:34,961 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:35,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:35,747 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:36,120 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:36,309 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:03:36,520 - INFO - Finished scraping @CheMed123
+2024-10-15 15:03:36,521 - INFO - Listening for real-time messages...
+2024-10-15 15:18:52,492 - INFO - Scrapping data...
+2024-10-15 15:18:52,494 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:18:52,595 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:18:54,121 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:18:54,440 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:54,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:54,888 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:55,037 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:55,175 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:55,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:55,612 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:55,934 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:56,232 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:56,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:56,582 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:56,779 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:57,081 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:57,246 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:57,406 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:57,707 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:57,852 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:57,989 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:58,164 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:58,323 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:58,461 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:58,615 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:58,766 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:58,882 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:59,196 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:59,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:59,704 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:18:59,976 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:00,271 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:19:00,548 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:19:00,814 - INFO - Finished scraping @EAHCI
+2024-10-15 15:19:01,129 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:01,289 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:01,595 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:01,774 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:01,938 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:02,319 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:02,680 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:02,813 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:03,109 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:03,400 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:03,764 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:04,074 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:04,304 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:04,490 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:04,786 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:04,952 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:05,254 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:05,550 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:05,921 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:06,245 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:06,542 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:06,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:07,461 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:08,006 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:08,198 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:19:08,356 - INFO - Finished scraping @CheMed123
+2024-10-15 15:19:08,357 - INFO - Listening for real-time messages...
+2024-10-15 15:20:43,064 - INFO - Scrapping data...
+2024-10-15 15:20:43,065 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:20:43,166 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:20:44,031 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:20:44,325 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:44,653 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:44,887 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:45,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:45,245 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:45,490 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:45,835 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:46,250 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:46,577 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:46,794 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:46,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:47,130 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:47,454 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:47,654 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:47,818 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:48,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:48,345 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:48,522 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:48,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:48,912 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:49,083 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:49,276 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:49,432 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:49,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:49,942 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:50,381 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:50,559 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:50,891 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:51,287 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:20:51,606 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:20:51,902 - INFO - Finished scraping @EAHCI
+2024-10-15 15:20:52,290 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:52,531 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:52,911 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:53,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:53,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:53,874 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:54,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:54,580 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:54,987 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:55,376 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:55,747 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:56,222 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:56,462 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:56,707 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:57,097 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:57,314 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:57,971 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:58,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:58,695 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:59,076 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:59,416 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:20:59,802 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:21:00,242 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:21:00,735 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:21:00,936 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:21:01,198 - INFO - Finished scraping @CheMed123
+2024-10-15 15:21:01,199 - INFO - Listening for real-time messages...
+2024-10-15 15:22:45,187 - INFO - Scrapping data...
+2024-10-15 15:22:45,189 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:22:45,290 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:22:46,200 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:22:46,494 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:46,812 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:47,031 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:47,217 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:47,381 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:47,609 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:47,943 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:48,371 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:48,780 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:48,965 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:49,223 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:49,408 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:49,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:49,951 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:50,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:50,486 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:50,659 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:50,811 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:51,024 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:51,219 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:51,399 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:51,601 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:51,761 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:51,902 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:52,282 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:52,679 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:52,862 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:53,182 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:53,530 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:22:53,793 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:22:54,108 - INFO - Finished scraping @EAHCI
+2024-10-15 15:22:54,418 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:54,578 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:55,161 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:55,394 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:55,647 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:55,975 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:56,329 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:56,516 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:56,909 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:57,314 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:57,779 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:58,420 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:58,695 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:58,928 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:59,405 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:22:59,623 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:00,037 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:00,454 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:00,829 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:01,163 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:01,489 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:01,826 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:02,220 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:02,594 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:02,807 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:23:03,009 - INFO - Finished scraping @CheMed123
+2024-10-15 15:23:03,010 - INFO - Listening for real-time messages...
+2024-10-15 15:23:03,262 - INFO - Table created successfully.
+2024-10-15 15:23:03,265 - ERROR - Error executing query: missing FROM-clause entry for table "lobelia4cosmetics_12471"
+LINE 3:             VALUES (@lobelia4cosmetics_12471.txt, 0, 0.46755...
+                             ^
+
+2024-10-15 15:39:12,388 - INFO - Table created successfully.
+2024-10-15 15:39:12,392 - ERROR - Error executing query: column "lobelia4cosmetics_12471" does not exist
+LINE 3:             VALUES (lobelia4cosmetics_12471, 0, 0.467553, 0....
+                            ^
+
+2024-10-15 15:39:17,946 - INFO - Scrapping data...
+2024-10-15 15:39:17,952 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:39:18,064 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:39:19,016 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:39:19,330 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:19,714 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:20,032 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:20,241 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:20,479 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:20,951 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:21,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:22,560 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:23,368 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:23,875 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:24,201 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:24,659 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:25,388 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:25,731 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:26,078 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:26,752 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:27,051 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:27,362 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:27,945 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:28,310 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:28,597 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:28,921 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:29,248 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:29,496 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:30,257 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:31,925 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:32,765 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:35,337 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:37,645 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:39:38,203 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:39:38,858 - INFO - Finished scraping @EAHCI
+2024-10-15 15:39:39,197 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:39,493 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:40,045 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:40,312 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:40,632 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:41,190 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:41,882 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:42,302 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:44,240 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:45,062 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:46,114 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:47,063 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:47,380 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:47,788 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:48,476 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:48,903 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:49,663 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:51,095 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:52,708 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:53,357 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:54,611 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:55,612 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:56,598 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:57,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:58,673 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2024-10-15 15:39:59,262 - INFO - Finished scraping @CheMed123
+2024-10-15 15:39:59,263 - INFO - Listening for real-time messages...
+2024-10-15 15:39:59,761 - INFO - Table created successfully.
+2024-10-15 15:39:59,764 - ERROR - Error executing query: column "lobelia4cosmetics_12471" does not exist
+LINE 3:             VALUES (lobelia4cosmetics_12471, 0, 0.467553, 0....
+                            ^
+
+2024-10-15 15:40:08,902 - INFO - Table created successfully.
+2024-10-15 15:40:08,907 - ERROR - Error executing query: column "lobelia4cosmetics_12471" does not exist
+LINE 3:             VALUES (lobelia4cosmetics_12471, 0, 0.467553, 0....
+                            ^
+
+2024-10-15 15:47:47,408 - INFO - Scrapping data...
+2024-10-15 15:47:47,413 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:47:47,538 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:47:49,136 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:47:49,873 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:47:50,381 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:47:50,952 - INFO - Finished scraping @EAHCI
+2024-10-15 15:47:51,533 - INFO - Finished scraping @CheMed123
+2024-10-15 15:47:51,534 - INFO - Listening for real-time messages...
+2024-10-15 15:47:51,837 - INFO - Table created successfully.
+2024-10-15 15:48:32,945 - INFO - Scrapping data...
+2024-10-15 15:48:32,946 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:48:33,437 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:48:35,567 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:48:36,378 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:48:37,097 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:48:37,647 - INFO - Finished scraping @EAHCI
+2024-10-15 15:48:39,013 - INFO - Finished scraping @CheMed123
+2024-10-15 15:48:39,015 - INFO - Listening for real-time messages...
+2024-10-15 15:48:40,351 - INFO - Table created successfully.
+2024-10-15 15:48:40,355 - INFO - lobelia4cosmetics_12471
+2024-10-15 15:48:40,360 - ERROR - Error executing query: column "lobelia4cosmetics_12471" does not exist
+LINE 3:             VALUES (lobelia4cosmetics_12471, 0, 0.467553, 0....
+                            ^
+
+2024-10-15 15:51:15,278 - INFO - Scrapping data...
+2024-10-15 15:51:15,284 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:51:15,457 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:51:16,874 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:51:17,169 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:51:17,509 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:51:17,816 - INFO - Finished scraping @EAHCI
+2024-10-15 15:51:18,168 - INFO - Finished scraping @CheMed123
+2024-10-15 15:51:18,169 - INFO - Listening for real-time messages...
+2024-10-15 15:51:20,570 - INFO - Table created successfully.
+2024-10-15 15:54:41,911 - INFO - Got difference for account updates
+2024-10-15 15:54:45,650 - INFO - Scrapping data...
+2024-10-15 15:54:45,652 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:54:45,763 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:54:47,273 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:54:47,745 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:54:48,291 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:54:48,669 - INFO - Finished scraping @EAHCI
+2024-10-15 15:54:49,352 - INFO - Finished scraping @CheMed123
+2024-10-15 15:54:49,353 - INFO - Listening for real-time messages...
+2024-10-15 15:54:49,596 - INFO - Table created successfully.
+2024-10-15 15:56:05,988 - INFO - Scrapping data...
+2024-10-15 15:56:05,989 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 15:56:06,100 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 15:56:07,469 - INFO - Finished scraping @DoctorsET
+2024-10-15 15:56:07,975 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 15:56:08,379 - INFO - Finished scraping @yetenaweg
+2024-10-15 15:56:08,740 - INFO - Finished scraping @EAHCI
+2024-10-15 15:56:09,158 - INFO - Finished scraping @CheMed123
+2024-10-15 15:56:09,159 - INFO - Listening for real-time messages...
+2024-10-15 15:56:09,456 - INFO - Table created successfully.
+2024-10-15 16:00:18,789 - INFO - Scrapping data...
+2024-10-15 16:00:18,791 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:00:19,040 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:00:20,577 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:00:20,959 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:00:21,350 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:00:21,748 - INFO - Finished scraping @EAHCI
+2024-10-15 16:00:22,083 - INFO - Finished scraping @CheMed123
+2024-10-15 16:00:22,084 - INFO - Listening for real-time messages...
+2024-10-15 16:00:22,713 - INFO - Table created successfully.
+2024-10-15 16:00:22,714 - INFO - lobelia4cosmetics_12471
+2024-10-15 16:00:22,716 - ERROR - Error executing query: column "lobelia4cosmetics_12471" does not exist
+LINE 1: ...ter, y_center, width, height, confidence) VALUES (lobelia4co...
+                                                             ^
+
+2024-10-15 16:01:19,361 - INFO - Scrapping data...
+2024-10-15 16:01:19,365 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:01:19,472 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:01:20,414 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:01:20,703 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:01:21,052 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:01:21,383 - INFO - Finished scraping @EAHCI
+2024-10-15 16:01:21,718 - INFO - Finished scraping @CheMed123
+2024-10-15 16:01:21,720 - INFO - Listening for real-time messages...
+2024-10-15 16:01:22,225 - INFO - Table created successfully.
+2024-10-15 16:01:22,226 - INFO - lobelia4cosmetics_12471
+2024-10-15 16:01:22,228 - ERROR - Error executing query: column "lobelia4cosmetics_12471" does not exist
+LINE 1: ...ter, y_center, width, height, confidence) VALUES (lobelia4co...
+                                                             ^
+
+2024-10-15 16:03:18,438 - INFO - Scrapping data...
+2024-10-15 16:03:18,443 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:03:18,546 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:03:19,790 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:03:20,304 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:03:20,705 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:03:21,029 - INFO - Finished scraping @EAHCI
+2024-10-15 16:03:21,351 - INFO - Finished scraping @CheMed123
+2024-10-15 16:03:21,352 - INFO - Listening for real-time messages...
+2024-10-15 16:03:25,169 - INFO - Table created successfully.
+2024-10-15 16:03:25,175 - INFO - lobelia4cosmetics_12471
+2024-10-15 16:04:26,088 - INFO - Scrapping data...
+2024-10-15 16:04:26,093 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:04:26,196 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:04:27,196 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:04:27,472 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:04:27,771 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:04:28,077 - INFO - Finished scraping @EAHCI
+2024-10-15 16:04:28,361 - INFO - Finished scraping @CheMed123
+2024-10-15 16:04:28,362 - INFO - Listening for real-time messages...
+2024-10-15 16:04:29,082 - INFO - Table created successfully.
+2024-10-15 16:04:29,084 - INFO - lobelia4cosmetics_12471
+2024-10-15 16:04:29,086 - INFO - Data inserted successfully for row 0.
+2024-10-15 16:04:29,087 - INFO - lobelia4cosmetics_12480
+2024-10-15 16:04:29,089 - INFO - Data inserted successfully for row 1.
+2024-10-15 16:04:29,090 - INFO - CheMed123_71
+2024-10-15 16:04:29,091 - INFO - Data inserted successfully for row 2.
+2024-10-15 16:04:29,093 - INFO - CheMed123_71
+2024-10-15 16:04:29,095 - INFO - Data inserted successfully for row 3.
+2024-10-15 16:04:29,096 - INFO - lobelia4cosmetics_12479
+2024-10-15 16:04:29,098 - INFO - Data inserted successfully for row 4.
+2024-10-15 16:04:29,099 - INFO - CheMed123_67
+2024-10-15 16:04:29,101 - INFO - Data inserted successfully for row 5.
+2024-10-15 16:04:29,102 - INFO - lobelia4cosmetics_12470
+2024-10-15 16:04:29,103 - INFO - Data inserted successfully for row 6.
+2024-10-15 16:04:29,104 - INFO - CheMed123_81
+2024-10-15 16:04:29,105 - INFO - Data inserted successfully for row 7.
+2024-10-15 16:04:29,106 - INFO - CheMed123_81
+2024-10-15 16:04:29,107 - INFO - Data inserted successfully for row 8.
+2024-10-15 16:04:29,108 - INFO - CheMed123_81
+2024-10-15 16:04:29,110 - INFO - Data inserted successfully for row 9.
+2024-10-15 16:04:29,111 - INFO - CheMed123_81
+2024-10-15 16:04:29,113 - INFO - Data inserted successfully for row 10.
+2024-10-15 16:04:29,114 - INFO - CheMed123_81
+2024-10-15 16:04:29,115 - INFO - Data inserted successfully for row 11.
+2024-10-15 16:04:29,116 - INFO - CheMed123_93
+2024-10-15 16:04:29,118 - INFO - Data inserted successfully for row 12.
+2024-10-15 16:04:29,118 - INFO - CheMed123_95
+2024-10-15 16:04:29,120 - INFO - Data inserted successfully for row 13.
+2024-10-15 16:04:29,121 - INFO - lobelia4cosmetics_12493
+2024-10-15 16:04:29,123 - INFO - Data inserted successfully for row 14.
+2024-10-15 16:04:29,124 - INFO - CheMed123_59
+2024-10-15 16:04:29,126 - INFO - Data inserted successfully for row 15.
+2024-10-15 16:04:29,127 - INFO - lobelia4cosmetics_12472
+2024-10-15 16:04:29,129 - INFO - Data inserted successfully for row 16.
+2024-10-15 16:04:29,130 - INFO - CheMed123_82
+2024-10-15 16:04:29,131 - INFO - Data inserted successfully for row 17.
+2024-10-15 16:04:29,132 - INFO - CheMed123_82
+2024-10-15 16:04:29,133 - INFO - Data inserted successfully for row 18.
+2024-10-15 16:04:29,134 - INFO - CheMed123_82
+2024-10-15 16:04:29,135 - INFO - Data inserted successfully for row 19.
+2024-10-15 16:04:29,136 - INFO - CheMed123_82
+2024-10-15 16:04:29,137 - INFO - Data inserted successfully for row 20.
+2024-10-15 16:04:29,139 - INFO - CheMed123_80
+2024-10-15 16:04:29,140 - INFO - Data inserted successfully for row 21.
+2024-10-15 16:04:29,143 - INFO - CheMed123_80
+2024-10-15 16:04:29,144 - INFO - Data inserted successfully for row 22.
+2024-10-15 16:04:29,145 - INFO - CheMed123_76
+2024-10-15 16:04:29,146 - INFO - Data inserted successfully for row 23.
+2024-10-15 16:04:29,147 - INFO - zidane
+2024-10-15 16:04:29,148 - INFO - Data inserted successfully for row 24.
+2024-10-15 16:04:29,149 - INFO - zidane
+2024-10-15 16:04:29,151 - INFO - Data inserted successfully for row 25.
+2024-10-15 16:04:29,152 - INFO - zidane
+2024-10-15 16:04:29,153 - INFO - Data inserted successfully for row 26.
+2024-10-15 16:04:29,153 - INFO - CheMed123_77
+2024-10-15 16:04:29,155 - INFO - Data inserted successfully for row 27.
+2024-10-15 16:04:29,156 - INFO - CheMed123_77
+2024-10-15 16:04:29,157 - INFO - Data inserted successfully for row 28.
+2024-10-15 16:04:29,158 - INFO - CheMed123_77
+2024-10-15 16:04:29,160 - INFO - Data inserted successfully for row 29.
+2024-10-15 16:04:29,162 - INFO - CheMed123_77
+2024-10-15 16:04:29,164 - INFO - Data inserted successfully for row 30.
+2024-10-15 16:04:29,165 - INFO - CheMed123_77
+2024-10-15 16:04:29,166 - INFO - Data inserted successfully for row 31.
+2024-10-15 16:04:29,167 - INFO - bus
+2024-10-15 16:04:29,169 - INFO - Data inserted successfully for row 32.
+2024-10-15 16:04:29,169 - INFO - bus
+2024-10-15 16:04:29,171 - INFO - Data inserted successfully for row 33.
+2024-10-15 16:04:29,172 - INFO - bus
+2024-10-15 16:04:29,173 - INFO - Data inserted successfully for row 34.
+2024-10-15 16:04:29,174 - INFO - bus
+2024-10-15 16:04:29,176 - INFO - Data inserted successfully for row 35.
+2024-10-15 16:04:29,177 - INFO - bus
+2024-10-15 16:04:29,179 - INFO - Data inserted successfully for row 36.
+2024-10-15 16:04:29,180 - INFO - CheMed123_96
+2024-10-15 16:04:29,181 - INFO - Data inserted successfully for row 37.
+2024-10-15 16:04:29,182 - INFO - CheMed123_86
+2024-10-15 16:04:29,183 - INFO - Data inserted successfully for row 38.
+2024-10-15 16:04:29,184 - INFO - CheMed123_86
+2024-10-15 16:04:29,185 - INFO - Data inserted successfully for row 39.
+2024-10-15 16:04:29,185 - INFO - CheMed123_86
+2024-10-15 16:04:29,187 - INFO - Data inserted successfully for row 40.
+2024-10-15 16:04:29,187 - INFO - CheMed123_75
+2024-10-15 16:04:29,188 - INFO - Data inserted successfully for row 41.
+2024-10-15 16:04:29,189 - INFO - CheMed123_94
+2024-10-15 16:04:29,191 - INFO - Data inserted successfully for row 42.
+2024-10-15 16:04:29,193 - INFO - CheMed123_94
+2024-10-15 16:04:29,194 - INFO - Data inserted successfully for row 43.
+2024-10-15 16:04:29,195 - INFO - CheMed123_70
+2024-10-15 16:04:29,196 - INFO - Data inserted successfully for row 44.
+2024-10-15 16:04:29,197 - INFO - CheMed123_70
+2024-10-15 16:04:29,198 - INFO - Data inserted successfully for row 45.
+2024-10-15 16:04:29,199 - INFO - CheMed123_70
+2024-10-15 16:04:29,200 - INFO - Data inserted successfully for row 46.
+2024-10-15 16:04:29,200 - INFO - CheMed123_70
+2024-10-15 16:04:29,201 - INFO - Data inserted successfully for row 47.
+2024-10-15 16:04:29,202 - INFO - CheMed123_92
+2024-10-15 16:04:29,203 - INFO - Data inserted successfully for row 48.
+2024-10-15 16:08:40,488 - INFO - Scrapping data...
+2024-10-15 16:08:40,489 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:08:40,587 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:08:41,636 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:08:41,897 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:08:42,214 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:08:42,546 - INFO - Finished scraping @EAHCI
+2024-10-15 16:08:42,860 - INFO - Finished scraping @CheMed123
+2024-10-15 16:08:42,862 - INFO - Listening for real-time messages...
+2024-10-15 16:08:43,266 - INFO - Table created successfully.
+2024-10-15 16:08:43,267 - INFO - lobelia4cosmetics_12471
+2024-10-15 16:08:43,268 - INFO - Data inserted successfully for row 0.
+2024-10-15 16:08:43,269 - INFO - lobelia4cosmetics_12480
+2024-10-15 16:08:43,270 - INFO - Data inserted successfully for row 1.
+2024-10-15 16:08:43,271 - INFO - CheMed123_71
+2024-10-15 16:08:43,272 - INFO - Data inserted successfully for row 2.
+2024-10-15 16:08:43,273 - INFO - CheMed123_71
+2024-10-15 16:08:43,274 - INFO - Data inserted successfully for row 3.
+2024-10-15 16:08:43,275 - INFO - lobelia4cosmetics_12479
+2024-10-15 16:08:43,277 - INFO - Data inserted successfully for row 4.
+2024-10-15 16:08:43,278 - INFO - CheMed123_67
+2024-10-15 16:08:43,279 - INFO - Data inserted successfully for row 5.
+2024-10-15 16:08:43,280 - INFO - lobelia4cosmetics_12470
+2024-10-15 16:08:43,281 - INFO - Data inserted successfully for row 6.
+2024-10-15 16:08:43,282 - INFO - CheMed123_81
+2024-10-15 16:08:43,283 - INFO - Data inserted successfully for row 7.
+2024-10-15 16:08:43,283 - INFO - CheMed123_81
+2024-10-15 16:08:43,284 - INFO - Data inserted successfully for row 8.
+2024-10-15 16:08:43,285 - INFO - CheMed123_81
+2024-10-15 16:08:43,286 - INFO - Data inserted successfully for row 9.
+2024-10-15 16:08:43,286 - INFO - CheMed123_81
+2024-10-15 16:08:43,287 - INFO - Data inserted successfully for row 10.
+2024-10-15 16:08:43,288 - INFO - CheMed123_81
+2024-10-15 16:08:43,289 - INFO - Data inserted successfully for row 11.
+2024-10-15 16:08:43,289 - INFO - CheMed123_93
+2024-10-15 16:08:43,290 - INFO - Data inserted successfully for row 12.
+2024-10-15 16:08:43,291 - INFO - CheMed123_95
+2024-10-15 16:08:43,292 - INFO - Data inserted successfully for row 13.
+2024-10-15 16:08:43,293 - INFO - lobelia4cosmetics_12493
+2024-10-15 16:08:43,295 - INFO - Data inserted successfully for row 14.
+2024-10-15 16:08:43,295 - INFO - CheMed123_59
+2024-10-15 16:08:43,296 - INFO - Data inserted successfully for row 15.
+2024-10-15 16:08:43,297 - INFO - lobelia4cosmetics_12472
+2024-10-15 16:08:43,298 - INFO - Data inserted successfully for row 16.
+2024-10-15 16:08:43,298 - INFO - CheMed123_82
+2024-10-15 16:08:43,299 - INFO - Data inserted successfully for row 17.
+2024-10-15 16:08:43,300 - INFO - CheMed123_82
+2024-10-15 16:08:43,300 - INFO - Data inserted successfully for row 18.
+2024-10-15 16:08:43,301 - INFO - CheMed123_82
+2024-10-15 16:08:43,302 - INFO - Data inserted successfully for row 19.
+2024-10-15 16:08:43,302 - INFO - CheMed123_82
+2024-10-15 16:08:43,303 - INFO - Data inserted successfully for row 20.
+2024-10-15 16:08:43,304 - INFO - CheMed123_80
+2024-10-15 16:08:43,304 - INFO - Data inserted successfully for row 21.
+2024-10-15 16:08:43,305 - INFO - CheMed123_80
+2024-10-15 16:08:43,306 - INFO - Data inserted successfully for row 22.
+2024-10-15 16:08:43,307 - INFO - CheMed123_76
+2024-10-15 16:08:43,308 - INFO - Data inserted successfully for row 23.
+2024-10-15 16:08:43,309 - INFO - zidane
+2024-10-15 16:08:43,310 - INFO - Data inserted successfully for row 24.
+2024-10-15 16:08:43,311 - INFO - zidane
+2024-10-15 16:08:43,312 - INFO - Data inserted successfully for row 25.
+2024-10-15 16:08:43,313 - INFO - zidane
+2024-10-15 16:08:43,314 - INFO - Data inserted successfully for row 26.
+2024-10-15 16:08:43,316 - INFO - CheMed123_77
+2024-10-15 16:08:43,317 - INFO - Data inserted successfully for row 27.
+2024-10-15 16:08:43,318 - INFO - CheMed123_77
+2024-10-15 16:08:43,319 - INFO - Data inserted successfully for row 28.
+2024-10-15 16:08:43,320 - INFO - CheMed123_77
+2024-10-15 16:08:43,320 - INFO - Data inserted successfully for row 29.
+2024-10-15 16:08:43,321 - INFO - CheMed123_77
+2024-10-15 16:08:43,322 - INFO - Data inserted successfully for row 30.
+2024-10-15 16:08:43,323 - INFO - CheMed123_77
+2024-10-15 16:08:43,324 - INFO - Data inserted successfully for row 31.
+2024-10-15 16:08:43,325 - INFO - bus
+2024-10-15 16:08:43,327 - INFO - Data inserted successfully for row 32.
+2024-10-15 16:08:43,327 - INFO - bus
+2024-10-15 16:08:43,329 - INFO - Data inserted successfully for row 33.
+2024-10-15 16:08:43,330 - INFO - bus
+2024-10-15 16:08:43,331 - INFO - Data inserted successfully for row 34.
+2024-10-15 16:08:43,331 - INFO - bus
+2024-10-15 16:08:43,332 - INFO - Data inserted successfully for row 35.
+2024-10-15 16:08:43,333 - INFO - bus
+2024-10-15 16:08:43,334 - INFO - Data inserted successfully for row 36.
+2024-10-15 16:08:43,335 - INFO - CheMed123_96
+2024-10-15 16:08:43,336 - INFO - Data inserted successfully for row 37.
+2024-10-15 16:08:43,337 - INFO - CheMed123_86
+2024-10-15 16:08:43,338 - INFO - Data inserted successfully for row 38.
+2024-10-15 16:08:43,339 - INFO - CheMed123_86
+2024-10-15 16:08:43,340 - INFO - Data inserted successfully for row 39.
+2024-10-15 16:08:43,341 - INFO - CheMed123_86
+2024-10-15 16:08:43,342 - INFO - Data inserted successfully for row 40.
+2024-10-15 16:08:43,343 - INFO - CheMed123_75
+2024-10-15 16:08:43,344 - INFO - Data inserted successfully for row 41.
+2024-10-15 16:08:43,346 - INFO - CheMed123_94
+2024-10-15 16:08:43,347 - INFO - Data inserted successfully for row 42.
+2024-10-15 16:08:43,348 - INFO - CheMed123_94
+2024-10-15 16:08:43,349 - INFO - Data inserted successfully for row 43.
+2024-10-15 16:08:43,350 - INFO - CheMed123_70
+2024-10-15 16:08:43,351 - INFO - Data inserted successfully for row 44.
+2024-10-15 16:08:43,352 - INFO - CheMed123_70
+2024-10-15 16:08:43,353 - INFO - Data inserted successfully for row 45.
+2024-10-15 16:08:43,354 - INFO - CheMed123_70
+2024-10-15 16:08:43,355 - INFO - Data inserted successfully for row 46.
+2024-10-15 16:08:43,356 - INFO - CheMed123_70
+2024-10-15 16:08:43,357 - INFO - Data inserted successfully for row 47.
+2024-10-15 16:08:43,357 - INFO - CheMed123_92
+2024-10-15 16:08:43,359 - INFO - Data inserted successfully for row 48.
+2024-10-15 16:10:28,542 - INFO - Scrapping data...
+2024-10-15 16:10:28,544 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:10:28,646 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:10:29,839 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:10:30,261 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:10:30,661 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:10:31,150 - INFO - Finished scraping @EAHCI
+2024-10-15 16:10:31,552 - INFO - Finished scraping @CheMed123
+2024-10-15 16:10:31,553 - INFO - Listening for real-time messages...
+2024-10-15 16:10:31,802 - INFO - Table created successfully.
+2024-10-15 16:10:31,803 - INFO - lobelia4cosmetics_12471
+2024-10-15 16:10:31,805 - INFO - Data inserted successfully for row 0.
+2024-10-15 16:10:31,806 - INFO - lobelia4cosmetics_12480
+2024-10-15 16:10:31,807 - INFO - Data inserted successfully for row 1.
+2024-10-15 16:10:31,808 - INFO - CheMed123_71
+2024-10-15 16:10:31,809 - INFO - Data inserted successfully for row 2.
+2024-10-15 16:10:31,810 - INFO - CheMed123_71
+2024-10-15 16:10:31,811 - INFO - Data inserted successfully for row 3.
+2024-10-15 16:10:31,811 - INFO - lobelia4cosmetics_12479
+2024-10-15 16:10:31,813 - INFO - Data inserted successfully for row 4.
+2024-10-15 16:10:31,815 - INFO - CheMed123_67
+2024-10-15 16:10:31,817 - INFO - Data inserted successfully for row 5.
+2024-10-15 16:10:31,818 - INFO - lobelia4cosmetics_12470
+2024-10-15 16:10:31,819 - INFO - Data inserted successfully for row 6.
+2024-10-15 16:10:31,820 - INFO - CheMed123_81
+2024-10-15 16:10:31,821 - INFO - Data inserted successfully for row 7.
+2024-10-15 16:10:31,822 - INFO - CheMed123_81
+2024-10-15 16:10:31,823 - INFO - Data inserted successfully for row 8.
+2024-10-15 16:10:31,824 - INFO - CheMed123_81
+2024-10-15 16:10:31,825 - INFO - Data inserted successfully for row 9.
+2024-10-15 16:10:31,826 - INFO - CheMed123_81
+2024-10-15 16:10:31,827 - INFO - Data inserted successfully for row 10.
+2024-10-15 16:10:31,828 - INFO - CheMed123_81
+2024-10-15 16:10:31,829 - INFO - Data inserted successfully for row 11.
+2024-10-15 16:10:31,831 - INFO - CheMed123_93
+2024-10-15 16:10:31,832 - INFO - Data inserted successfully for row 12.
+2024-10-15 16:10:31,833 - INFO - CheMed123_95
+2024-10-15 16:10:31,834 - INFO - Data inserted successfully for row 13.
+2024-10-15 16:10:31,835 - INFO - lobelia4cosmetics_12493
+2024-10-15 16:10:31,837 - INFO - Data inserted successfully for row 14.
+2024-10-15 16:10:31,838 - INFO - CheMed123_59
+2024-10-15 16:10:31,839 - INFO - Data inserted successfully for row 15.
+2024-10-15 16:10:31,839 - INFO - lobelia4cosmetics_12472
+2024-10-15 16:10:31,840 - INFO - Data inserted successfully for row 16.
+2024-10-15 16:10:31,841 - INFO - CheMed123_82
+2024-10-15 16:10:31,842 - INFO - Data inserted successfully for row 17.
+2024-10-15 16:10:31,843 - INFO - CheMed123_82
+2024-10-15 16:10:31,844 - INFO - Data inserted successfully for row 18.
+2024-10-15 16:10:31,845 - INFO - CheMed123_82
+2024-10-15 16:10:31,846 - INFO - Data inserted successfully for row 19.
+2024-10-15 16:10:31,847 - INFO - CheMed123_82
+2024-10-15 16:10:31,848 - INFO - Data inserted successfully for row 20.
+2024-10-15 16:10:31,849 - INFO - CheMed123_80
+2024-10-15 16:10:31,851 - INFO - Data inserted successfully for row 21.
+2024-10-15 16:10:31,852 - INFO - CheMed123_80
+2024-10-15 16:10:31,853 - INFO - Data inserted successfully for row 22.
+2024-10-15 16:10:31,854 - INFO - CheMed123_76
+2024-10-15 16:10:31,855 - INFO - Data inserted successfully for row 23.
+2024-10-15 16:10:31,856 - INFO - zidane
+2024-10-15 16:10:31,857 - INFO - Data inserted successfully for row 24.
+2024-10-15 16:10:31,858 - INFO - zidane
+2024-10-15 16:10:31,860 - INFO - Data inserted successfully for row 25.
+2024-10-15 16:10:31,860 - INFO - zidane
+2024-10-15 16:10:31,862 - INFO - Data inserted successfully for row 26.
+2024-10-15 16:10:31,862 - INFO - CheMed123_77
+2024-10-15 16:10:31,864 - INFO - Data inserted successfully for row 27.
+2024-10-15 16:10:31,865 - INFO - CheMed123_77
+2024-10-15 16:10:31,867 - INFO - Data inserted successfully for row 28.
+2024-10-15 16:10:31,868 - INFO - CheMed123_77
+2024-10-15 16:10:31,870 - INFO - Data inserted successfully for row 29.
+2024-10-15 16:10:31,871 - INFO - CheMed123_77
+2024-10-15 16:10:31,872 - INFO - Data inserted successfully for row 30.
+2024-10-15 16:10:31,873 - INFO - CheMed123_77
+2024-10-15 16:10:31,874 - INFO - Data inserted successfully for row 31.
+2024-10-15 16:10:31,875 - INFO - bus
+2024-10-15 16:10:31,876 - INFO - Data inserted successfully for row 32.
+2024-10-15 16:10:31,877 - INFO - bus
+2024-10-15 16:10:31,879 - INFO - Data inserted successfully for row 33.
+2024-10-15 16:10:31,879 - INFO - bus
+2024-10-15 16:10:31,881 - INFO - Data inserted successfully for row 34.
+2024-10-15 16:10:31,882 - INFO - bus
+2024-10-15 16:10:31,883 - INFO - Data inserted successfully for row 35.
+2024-10-15 16:10:31,884 - INFO - bus
+2024-10-15 16:10:31,885 - INFO - Data inserted successfully for row 36.
+2024-10-15 16:10:31,886 - INFO - CheMed123_96
+2024-10-15 16:10:31,887 - INFO - Data inserted successfully for row 37.
+2024-10-15 16:10:31,888 - INFO - CheMed123_86
+2024-10-15 16:10:31,889 - INFO - Data inserted successfully for row 38.
+2024-10-15 16:10:31,890 - INFO - CheMed123_86
+2024-10-15 16:10:31,891 - INFO - Data inserted successfully for row 39.
+2024-10-15 16:10:31,892 - INFO - CheMed123_86
+2024-10-15 16:10:31,894 - INFO - Data inserted successfully for row 40.
+2024-10-15 16:10:31,894 - INFO - CheMed123_75
+2024-10-15 16:10:31,895 - INFO - Data inserted successfully for row 41.
+2024-10-15 16:10:31,896 - INFO - CheMed123_94
+2024-10-15 16:10:31,898 - INFO - Data inserted successfully for row 42.
+2024-10-15 16:10:31,899 - INFO - CheMed123_94
+2024-10-15 16:10:31,900 - INFO - Data inserted successfully for row 43.
+2024-10-15 16:10:31,902 - INFO - CheMed123_70
+2024-10-15 16:10:31,903 - INFO - Data inserted successfully for row 44.
+2024-10-15 16:10:31,904 - INFO - CheMed123_70
+2024-10-15 16:10:31,906 - INFO - Data inserted successfully for row 45.
+2024-10-15 16:10:31,907 - INFO - CheMed123_70
+2024-10-15 16:10:31,908 - INFO - Data inserted successfully for row 46.
+2024-10-15 16:10:31,909 - INFO - CheMed123_70
+2024-10-15 16:10:31,910 - INFO - Data inserted successfully for row 47.
+2024-10-15 16:10:31,911 - INFO - CheMed123_92
+2024-10-15 16:10:31,913 - INFO - Data inserted successfully for row 48.
+2024-10-15 16:14:16,539 - INFO - Scrapping data...
+2024-10-15 16:14:16,540 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:14:16,641 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:14:17,547 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:14:17,847 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:14:18,177 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:14:18,497 - INFO - Finished scraping @EAHCI
+2024-10-15 16:14:18,831 - INFO - Finished scraping @CheMed123
+2024-10-15 16:14:18,832 - INFO - Listening for real-time messages...
+2024-10-15 16:14:19,203 - INFO - Creating table detected_image...
+2024-10-15 16:14:19,221 - INFO - Table creation attempted.
+2024-10-15 16:14:19,223 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:14:19,225 - INFO - Data inserted for row 0.
+2024-10-15 16:14:19,226 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:14:19,227 - INFO - Data inserted for row 1.
+2024-10-15 16:14:19,228 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:14:19,230 - INFO - Data inserted for row 2.
+2024-10-15 16:14:19,230 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:14:19,231 - INFO - Data inserted for row 3.
+2024-10-15 16:14:19,232 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:14:19,233 - INFO - Data inserted for row 4.
+2024-10-15 16:14:19,233 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:14:19,234 - INFO - Data inserted for row 5.
+2024-10-15 16:14:19,235 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:14:19,236 - INFO - Data inserted for row 6.
+2024-10-15 16:14:19,238 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:14:19,239 - INFO - Data inserted for row 7.
+2024-10-15 16:14:19,240 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:14:19,241 - INFO - Data inserted for row 8.
+2024-10-15 16:14:19,242 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:14:19,243 - INFO - Data inserted for row 9.
+2024-10-15 16:14:19,244 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:14:19,245 - INFO - Data inserted for row 10.
+2024-10-15 16:14:19,245 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:14:19,246 - INFO - Data inserted for row 11.
+2024-10-15 16:14:19,247 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:14:19,248 - INFO - Data inserted for row 12.
+2024-10-15 16:14:19,248 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:14:19,249 - INFO - Data inserted for row 13.
+2024-10-15 16:14:19,250 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:14:19,251 - INFO - Data inserted for row 14.
+2024-10-15 16:14:19,251 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:14:19,252 - INFO - Data inserted for row 15.
+2024-10-15 16:14:19,253 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:14:19,254 - INFO - Data inserted for row 16.
+2024-10-15 16:14:19,255 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:14:19,257 - INFO - Data inserted for row 17.
+2024-10-15 16:14:19,258 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:14:19,259 - INFO - Data inserted for row 18.
+2024-10-15 16:14:19,259 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:14:19,260 - INFO - Data inserted for row 19.
+2024-10-15 16:14:19,261 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:14:19,261 - INFO - Data inserted for row 20.
+2024-10-15 16:14:19,262 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:14:19,263 - INFO - Data inserted for row 21.
+2024-10-15 16:14:19,263 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:14:19,264 - INFO - Data inserted for row 22.
+2024-10-15 16:14:19,265 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:14:19,266 - INFO - Data inserted for row 23.
+2024-10-15 16:14:19,267 - INFO - Processing row 24: zidane
+2024-10-15 16:14:19,268 - INFO - Data inserted for row 24.
+2024-10-15 16:14:19,268 - INFO - Processing row 25: zidane
+2024-10-15 16:14:19,269 - INFO - Data inserted for row 25.
+2024-10-15 16:14:19,270 - INFO - Processing row 26: zidane
+2024-10-15 16:14:19,271 - INFO - Data inserted for row 26.
+2024-10-15 16:14:19,272 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:14:19,273 - INFO - Data inserted for row 27.
+2024-10-15 16:14:19,274 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:14:19,275 - INFO - Data inserted for row 28.
+2024-10-15 16:14:19,275 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:14:19,276 - INFO - Data inserted for row 29.
+2024-10-15 16:14:19,277 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:14:19,278 - INFO - Data inserted for row 30.
+2024-10-15 16:14:19,278 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:14:19,279 - INFO - Data inserted for row 31.
+2024-10-15 16:14:19,279 - INFO - Processing row 32: bus
+2024-10-15 16:14:19,280 - INFO - Data inserted for row 32.
+2024-10-15 16:14:19,281 - INFO - Processing row 33: bus
+2024-10-15 16:14:19,281 - INFO - Data inserted for row 33.
+2024-10-15 16:14:19,282 - INFO - Processing row 34: bus
+2024-10-15 16:14:19,282 - INFO - Data inserted for row 34.
+2024-10-15 16:14:19,283 - INFO - Processing row 35: bus
+2024-10-15 16:14:19,284 - INFO - Data inserted for row 35.
+2024-10-15 16:14:19,284 - INFO - Processing row 36: bus
+2024-10-15 16:14:19,285 - INFO - Data inserted for row 36.
+2024-10-15 16:14:19,286 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:14:19,287 - INFO - Data inserted for row 37.
+2024-10-15 16:14:19,288 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:14:19,289 - INFO - Data inserted for row 38.
+2024-10-15 16:14:19,289 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:14:19,290 - INFO - Data inserted for row 39.
+2024-10-15 16:14:19,291 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:14:19,292 - INFO - Data inserted for row 40.
+2024-10-15 16:14:19,292 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:14:19,293 - INFO - Data inserted for row 41.
+2024-10-15 16:14:19,294 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:14:19,295 - INFO - Data inserted for row 42.
+2024-10-15 16:14:19,296 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:14:19,297 - INFO - Data inserted for row 43.
+2024-10-15 16:14:19,297 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:14:19,298 - INFO - Data inserted for row 44.
+2024-10-15 16:14:19,299 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:14:19,300 - INFO - Data inserted for row 45.
+2024-10-15 16:14:19,300 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:14:19,301 - INFO - Data inserted for row 46.
+2024-10-15 16:14:19,301 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:14:19,302 - INFO - Data inserted for row 47.
+2024-10-15 16:14:19,303 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:14:19,304 - INFO - Data inserted for row 48.
+2024-10-15 16:14:19,306 - INFO - Database connection closed.
+2024-10-15 16:14:24,203 - INFO - Got difference for account updates
+2024-10-15 16:18:38,064 - INFO - Scrapping data...
+2024-10-15 16:18:38,066 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:18:38,169 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:18:39,222 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:18:39,510 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:18:39,794 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:18:40,354 - INFO - Finished scraping @EAHCI
+2024-10-15 16:18:40,636 - INFO - Finished scraping @CheMed123
+2024-10-15 16:18:40,637 - INFO - Listening for real-time messages...
+2024-10-15 16:18:40,892 - INFO - Creating table detected_image...
+2024-10-15 16:18:40,908 - INFO - Table creation attempted.
+2024-10-15 16:18:40,909 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:18:40,911 - INFO - Data inserted for row 0.
+2024-10-15 16:18:40,912 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:18:40,914 - INFO - Data inserted for row 1.
+2024-10-15 16:18:40,915 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:18:40,916 - INFO - Data inserted for row 2.
+2024-10-15 16:18:40,917 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:18:40,918 - INFO - Data inserted for row 3.
+2024-10-15 16:18:40,919 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:18:40,920 - INFO - Data inserted for row 4.
+2024-10-15 16:18:40,921 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:18:40,922 - INFO - Data inserted for row 5.
+2024-10-15 16:18:40,923 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:18:40,924 - INFO - Data inserted for row 6.
+2024-10-15 16:18:40,925 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:18:40,926 - INFO - Data inserted for row 7.
+2024-10-15 16:18:40,928 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:18:40,929 - INFO - Data inserted for row 8.
+2024-10-15 16:18:40,930 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:18:40,931 - INFO - Data inserted for row 9.
+2024-10-15 16:18:40,932 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:18:40,934 - INFO - Data inserted for row 10.
+2024-10-15 16:18:40,934 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:18:40,936 - INFO - Data inserted for row 11.
+2024-10-15 16:18:40,937 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:18:40,938 - INFO - Data inserted for row 12.
+2024-10-15 16:18:40,938 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:18:40,939 - INFO - Data inserted for row 13.
+2024-10-15 16:18:40,940 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:18:40,941 - INFO - Data inserted for row 14.
+2024-10-15 16:18:40,941 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:18:40,944 - INFO - Data inserted for row 15.
+2024-10-15 16:18:40,945 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:18:40,946 - INFO - Data inserted for row 16.
+2024-10-15 16:18:40,947 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:18:40,949 - INFO - Data inserted for row 17.
+2024-10-15 16:18:40,950 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:18:40,951 - INFO - Data inserted for row 18.
+2024-10-15 16:18:40,952 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:18:40,953 - INFO - Data inserted for row 19.
+2024-10-15 16:18:40,954 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:18:40,955 - INFO - Data inserted for row 20.
+2024-10-15 16:18:40,956 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:18:40,957 - INFO - Data inserted for row 21.
+2024-10-15 16:18:40,958 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:18:40,959 - INFO - Data inserted for row 22.
+2024-10-15 16:18:40,960 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:18:40,962 - INFO - Data inserted for row 23.
+2024-10-15 16:18:40,963 - INFO - Processing row 24: zidane
+2024-10-15 16:18:40,964 - INFO - Data inserted for row 24.
+2024-10-15 16:18:40,966 - INFO - Processing row 25: zidane
+2024-10-15 16:18:40,967 - INFO - Data inserted for row 25.
+2024-10-15 16:18:40,968 - INFO - Processing row 26: zidane
+2024-10-15 16:18:40,969 - INFO - Data inserted for row 26.
+2024-10-15 16:18:40,970 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:18:40,971 - INFO - Data inserted for row 27.
+2024-10-15 16:18:40,972 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:18:40,973 - INFO - Data inserted for row 28.
+2024-10-15 16:18:40,974 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:18:40,975 - INFO - Data inserted for row 29.
+2024-10-15 16:18:40,976 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:18:40,978 - INFO - Data inserted for row 30.
+2024-10-15 16:18:40,979 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:18:40,980 - INFO - Data inserted for row 31.
+2024-10-15 16:18:40,981 - INFO - Processing row 32: bus
+2024-10-15 16:18:40,982 - INFO - Data inserted for row 32.
+2024-10-15 16:18:40,983 - INFO - Processing row 33: bus
+2024-10-15 16:18:40,984 - INFO - Data inserted for row 33.
+2024-10-15 16:18:40,985 - INFO - Processing row 34: bus
+2024-10-15 16:18:40,986 - INFO - Data inserted for row 34.
+2024-10-15 16:18:40,986 - INFO - Processing row 35: bus
+2024-10-15 16:18:40,987 - INFO - Data inserted for row 35.
+2024-10-15 16:18:40,988 - INFO - Processing row 36: bus
+2024-10-15 16:18:40,989 - INFO - Data inserted for row 36.
+2024-10-15 16:18:40,989 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:18:40,990 - INFO - Data inserted for row 37.
+2024-10-15 16:18:40,991 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:18:40,992 - INFO - Data inserted for row 38.
+2024-10-15 16:18:40,993 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:18:40,995 - INFO - Data inserted for row 39.
+2024-10-15 16:18:40,996 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:18:40,998 - INFO - Data inserted for row 40.
+2024-10-15 16:18:40,999 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:18:41,000 - INFO - Data inserted for row 41.
+2024-10-15 16:18:41,001 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:18:41,002 - INFO - Data inserted for row 42.
+2024-10-15 16:18:41,003 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:18:41,004 - INFO - Data inserted for row 43.
+2024-10-15 16:18:41,005 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:18:41,006 - INFO - Data inserted for row 44.
+2024-10-15 16:18:41,007 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:18:41,008 - INFO - Data inserted for row 45.
+2024-10-15 16:18:41,009 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:18:41,010 - INFO - Data inserted for row 46.
+2024-10-15 16:18:41,012 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:18:41,013 - INFO - Data inserted for row 47.
+2024-10-15 16:18:41,014 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:18:41,016 - INFO - Data inserted for row 48.
+2024-10-15 16:18:41,017 - INFO - Database connection closed.
+2024-10-15 16:21:04,298 - INFO - Scrapping data...
+2024-10-15 16:21:04,299 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:21:04,402 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:21:05,351 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:21:05,680 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:21:06,122 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:21:06,543 - INFO - Finished scraping @EAHCI
+2024-10-15 16:21:06,934 - INFO - Finished scraping @CheMed123
+2024-10-15 16:21:06,936 - INFO - Listening for real-time messages...
+2024-10-15 16:21:07,355 - INFO - Creating table detected_image...
+2024-10-15 16:21:07,419 - INFO - Table creation attempted.
+2024-10-15 16:21:07,420 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:21:07,422 - INFO - Data inserted for row 0.
+2024-10-15 16:21:07,422 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:21:07,423 - INFO - Data inserted for row 1.
+2024-10-15 16:21:07,424 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:21:07,425 - INFO - Data inserted for row 2.
+2024-10-15 16:21:07,426 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:21:07,427 - INFO - Data inserted for row 3.
+2024-10-15 16:21:07,428 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:21:07,429 - INFO - Data inserted for row 4.
+2024-10-15 16:21:07,429 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:21:07,431 - INFO - Data inserted for row 5.
+2024-10-15 16:21:07,431 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:21:07,433 - INFO - Data inserted for row 6.
+2024-10-15 16:21:07,434 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:21:07,436 - INFO - Data inserted for row 7.
+2024-10-15 16:21:07,437 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:21:07,438 - INFO - Data inserted for row 8.
+2024-10-15 16:21:07,439 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:21:07,440 - INFO - Data inserted for row 9.
+2024-10-15 16:21:07,441 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:21:07,442 - INFO - Data inserted for row 10.
+2024-10-15 16:21:07,442 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:21:07,444 - INFO - Data inserted for row 11.
+2024-10-15 16:21:07,444 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:21:07,445 - INFO - Data inserted for row 12.
+2024-10-15 16:21:07,446 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:21:07,448 - INFO - Data inserted for row 13.
+2024-10-15 16:21:07,448 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:21:07,450 - INFO - Data inserted for row 14.
+2024-10-15 16:21:07,451 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:21:07,453 - INFO - Data inserted for row 15.
+2024-10-15 16:21:07,454 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:21:07,455 - INFO - Data inserted for row 16.
+2024-10-15 16:21:07,456 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:21:07,457 - INFO - Data inserted for row 17.
+2024-10-15 16:21:07,457 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:21:07,458 - INFO - Data inserted for row 18.
+2024-10-15 16:21:07,459 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:21:07,460 - INFO - Data inserted for row 19.
+2024-10-15 16:21:07,461 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:21:07,462 - INFO - Data inserted for row 20.
+2024-10-15 16:21:07,462 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:21:07,463 - INFO - Data inserted for row 21.
+2024-10-15 16:21:07,464 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:21:07,465 - INFO - Data inserted for row 22.
+2024-10-15 16:21:07,466 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:21:07,469 - INFO - Data inserted for row 23.
+2024-10-15 16:21:07,470 - INFO - Processing row 24: zidane
+2024-10-15 16:21:07,471 - INFO - Data inserted for row 24.
+2024-10-15 16:21:07,472 - INFO - Processing row 25: zidane
+2024-10-15 16:21:07,473 - INFO - Data inserted for row 25.
+2024-10-15 16:21:07,474 - INFO - Processing row 26: zidane
+2024-10-15 16:21:07,475 - INFO - Data inserted for row 26.
+2024-10-15 16:21:07,476 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:21:07,477 - INFO - Data inserted for row 27.
+2024-10-15 16:21:07,477 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:21:07,478 - INFO - Data inserted for row 28.
+2024-10-15 16:21:07,479 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:21:07,480 - INFO - Data inserted for row 29.
+2024-10-15 16:21:07,482 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:21:07,482 - INFO - Data inserted for row 30.
+2024-10-15 16:21:07,484 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:21:07,485 - INFO - Data inserted for row 31.
+2024-10-15 16:21:07,486 - INFO - Processing row 32: bus
+2024-10-15 16:21:07,488 - INFO - Data inserted for row 32.
+2024-10-15 16:21:07,489 - INFO - Processing row 33: bus
+2024-10-15 16:21:07,490 - INFO - Data inserted for row 33.
+2024-10-15 16:21:07,490 - INFO - Processing row 34: bus
+2024-10-15 16:21:07,491 - INFO - Data inserted for row 34.
+2024-10-15 16:21:07,492 - INFO - Processing row 35: bus
+2024-10-15 16:21:07,493 - INFO - Data inserted for row 35.
+2024-10-15 16:21:07,493 - INFO - Processing row 36: bus
+2024-10-15 16:21:07,494 - INFO - Data inserted for row 36.
+2024-10-15 16:21:07,495 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:21:07,496 - INFO - Data inserted for row 37.
+2024-10-15 16:21:07,497 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:21:07,498 - INFO - Data inserted for row 38.
+2024-10-15 16:21:07,499 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:21:07,500 - INFO - Data inserted for row 39.
+2024-10-15 16:21:07,501 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:21:07,503 - INFO - Data inserted for row 40.
+2024-10-15 16:21:07,504 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:21:07,506 - INFO - Data inserted for row 41.
+2024-10-15 16:21:07,506 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:21:07,507 - INFO - Data inserted for row 42.
+2024-10-15 16:21:07,508 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:21:07,509 - INFO - Data inserted for row 43.
+2024-10-15 16:21:07,510 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:21:07,511 - INFO - Data inserted for row 44.
+2024-10-15 16:21:07,512 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:21:07,513 - INFO - Data inserted for row 45.
+2024-10-15 16:21:07,515 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:21:07,516 - INFO - Data inserted for row 46.
+2024-10-15 16:21:07,517 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:21:07,519 - INFO - Data inserted for row 47.
+2024-10-15 16:21:07,520 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:21:07,521 - INFO - Data inserted for row 48.
+2024-10-15 16:21:07,522 - INFO - Database connection closed.
+2024-10-15 16:22:49,593 - INFO - Scrapping data...
+2024-10-15 16:22:49,595 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:22:49,698 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:22:50,712 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:22:51,147 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:22:52,062 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:22:52,376 - INFO - Finished scraping @EAHCI
+2024-10-15 16:22:52,674 - INFO - Finished scraping @CheMed123
+2024-10-15 16:22:52,675 - INFO - Listening for real-time messages...
+2024-10-15 16:22:53,428 - INFO - Creating table detected_image...
+2024-10-15 16:22:53,431 - INFO - Table creation attempted.
+2024-10-15 16:22:53,433 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:22:53,436 - ERROR - Error executing query: column "image" of relation "detected_image" does not exist
+LINE 2:             INSERT INTO detected_image (image, class, x_cent...
+                                                ^
+
+2024-10-15 16:22:53,438 - INFO - Database connection closed.
+2024-10-15 16:23:40,729 - INFO - Scrapping data...
+2024-10-15 16:23:40,730 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:23:40,831 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:23:41,751 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:23:42,055 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:23:42,368 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:23:42,665 - INFO - Finished scraping @EAHCI
+2024-10-15 16:23:42,989 - INFO - Finished scraping @CheMed123
+2024-10-15 16:23:42,990 - INFO - Listening for real-time messages...
+2024-10-15 16:23:43,263 - INFO - Creating table detected_image...
+2024-10-15 16:23:43,265 - INFO - Table creation attempted.
+2024-10-15 16:23:43,268 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:23:43,270 - ERROR - Error executing query: column "image" of relation "detected_image" does not exist
+LINE 2:             INSERT INTO detected_image (image, class, x_cent...
+                                                ^
+
+2024-10-15 16:23:43,271 - INFO - Database connection closed.
+2024-10-15 16:24:41,834 - INFO - Scrapping data...
+2024-10-15 16:24:42,295 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:24:42,602 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:24:42,908 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:24:43,338 - INFO - Finished scraping @EAHCI
+2024-10-15 16:24:43,751 - INFO - Finished scraping @CheMed123
+2024-10-15 16:24:43,752 - INFO - Listening for real-time messages...
+2024-10-15 16:24:58,275 - INFO - Scrapping data...
+2024-10-15 16:24:58,277 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:24:58,529 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:25:00,003 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:25:01,016 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:25:01,502 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:25:01,824 - INFO - Finished scraping @EAHCI
+2024-10-15 16:25:02,166 - INFO - Finished scraping @CheMed123
+2024-10-15 16:25:02,167 - INFO - Listening for real-time messages...
+2024-10-15 16:25:02,427 - INFO - Creating table detected_image...
+2024-10-15 16:25:02,428 - INFO - Table creation attempted.
+2024-10-15 16:25:02,429 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:25:02,430 - INFO - Data inserted for row 0.
+2024-10-15 16:25:02,431 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:25:02,432 - INFO - Data inserted for row 1.
+2024-10-15 16:25:02,433 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:25:02,434 - INFO - Data inserted for row 2.
+2024-10-15 16:25:02,435 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:25:02,437 - INFO - Data inserted for row 3.
+2024-10-15 16:25:02,438 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:25:02,438 - INFO - Data inserted for row 4.
+2024-10-15 16:25:02,440 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:25:02,441 - INFO - Data inserted for row 5.
+2024-10-15 16:25:02,442 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:25:02,444 - INFO - Data inserted for row 6.
+2024-10-15 16:25:02,445 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:25:02,446 - INFO - Data inserted for row 7.
+2024-10-15 16:25:02,446 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:25:02,448 - INFO - Data inserted for row 8.
+2024-10-15 16:25:02,449 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:25:02,450 - INFO - Data inserted for row 9.
+2024-10-15 16:25:02,451 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:25:02,452 - INFO - Data inserted for row 10.
+2024-10-15 16:25:02,453 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:25:02,454 - INFO - Data inserted for row 11.
+2024-10-15 16:25:02,455 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:25:02,455 - INFO - Data inserted for row 12.
+2024-10-15 16:25:02,456 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:25:02,457 - INFO - Data inserted for row 13.
+2024-10-15 16:25:02,458 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:25:02,460 - INFO - Data inserted for row 14.
+2024-10-15 16:25:02,461 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:25:02,462 - INFO - Data inserted for row 15.
+2024-10-15 16:25:02,463 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:25:02,465 - INFO - Data inserted for row 16.
+2024-10-15 16:25:02,466 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:25:02,467 - INFO - Data inserted for row 17.
+2024-10-15 16:25:02,468 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:25:02,469 - INFO - Data inserted for row 18.
+2024-10-15 16:25:02,469 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:25:02,471 - INFO - Data inserted for row 19.
+2024-10-15 16:25:02,472 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:25:02,473 - INFO - Data inserted for row 20.
+2024-10-15 16:25:02,473 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:25:02,475 - INFO - Data inserted for row 21.
+2024-10-15 16:25:02,476 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:25:02,477 - INFO - Data inserted for row 22.
+2024-10-15 16:25:02,477 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:25:02,479 - INFO - Data inserted for row 23.
+2024-10-15 16:25:02,479 - INFO - Processing row 24: zidane
+2024-10-15 16:25:02,480 - INFO - Data inserted for row 24.
+2024-10-15 16:25:02,481 - INFO - Processing row 25: zidane
+2024-10-15 16:25:02,482 - INFO - Data inserted for row 25.
+2024-10-15 16:25:02,483 - INFO - Processing row 26: zidane
+2024-10-15 16:25:02,484 - INFO - Data inserted for row 26.
+2024-10-15 16:25:02,484 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:25:02,485 - INFO - Data inserted for row 27.
+2024-10-15 16:25:02,486 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:25:02,487 - INFO - Data inserted for row 28.
+2024-10-15 16:25:02,489 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:25:02,490 - INFO - Data inserted for row 29.
+2024-10-15 16:25:02,491 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:25:02,492 - INFO - Data inserted for row 30.
+2024-10-15 16:25:02,493 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:25:02,494 - INFO - Data inserted for row 31.
+2024-10-15 16:25:02,495 - INFO - Processing row 32: bus
+2024-10-15 16:25:02,497 - INFO - Data inserted for row 32.
+2024-10-15 16:25:02,497 - INFO - Processing row 33: bus
+2024-10-15 16:25:02,499 - INFO - Data inserted for row 33.
+2024-10-15 16:25:02,499 - INFO - Processing row 34: bus
+2024-10-15 16:25:02,501 - INFO - Data inserted for row 34.
+2024-10-15 16:25:02,501 - INFO - Processing row 35: bus
+2024-10-15 16:25:02,502 - INFO - Data inserted for row 35.
+2024-10-15 16:25:02,503 - INFO - Processing row 36: bus
+2024-10-15 16:25:02,505 - INFO - Data inserted for row 36.
+2024-10-15 16:25:02,506 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:25:02,507 - INFO - Data inserted for row 37.
+2024-10-15 16:25:02,508 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:25:02,509 - INFO - Data inserted for row 38.
+2024-10-15 16:25:02,510 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:25:02,511 - INFO - Data inserted for row 39.
+2024-10-15 16:25:02,511 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:25:02,513 - INFO - Data inserted for row 40.
+2024-10-15 16:25:02,513 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:25:02,514 - INFO - Data inserted for row 41.
+2024-10-15 16:25:02,515 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:25:02,516 - INFO - Data inserted for row 42.
+2024-10-15 16:25:02,517 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:25:02,518 - INFO - Data inserted for row 43.
+2024-10-15 16:25:02,519 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:25:02,521 - INFO - Data inserted for row 44.
+2024-10-15 16:25:02,522 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:25:02,523 - INFO - Data inserted for row 45.
+2024-10-15 16:25:02,524 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:25:02,525 - INFO - Data inserted for row 46.
+2024-10-15 16:25:02,526 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:25:02,527 - INFO - Data inserted for row 47.
+2024-10-15 16:25:02,528 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:25:02,529 - INFO - Data inserted for row 48.
+2024-10-15 16:25:02,530 - INFO - Database connection closed.
+2024-10-15 16:31:36,621 - INFO - Scrapping data...
+2024-10-15 16:31:36,623 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:31:36,724 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:31:37,846 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:31:38,242 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:31:38,632 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:31:39,056 - INFO - Finished scraping @EAHCI
+2024-10-15 16:31:39,551 - INFO - Finished scraping @CheMed123
+2024-10-15 16:31:39,552 - INFO - Listening for real-time messages...
+2024-10-15 16:31:39,796 - INFO - Creating table detected_image...
+2024-10-15 16:31:39,797 - INFO - Table creation attempted.
+2024-10-15 16:31:39,798 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:31:39,799 - INFO - Data inserted for row 0.
+2024-10-15 16:31:39,801 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:31:39,802 - INFO - Data inserted for row 1.
+2024-10-15 16:31:39,803 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:31:39,805 - INFO - Data inserted for row 2.
+2024-10-15 16:31:39,806 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:31:39,807 - INFO - Data inserted for row 3.
+2024-10-15 16:31:39,808 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:31:39,809 - INFO - Data inserted for row 4.
+2024-10-15 16:31:39,810 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:31:39,811 - INFO - Data inserted for row 5.
+2024-10-15 16:31:39,812 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:31:39,813 - INFO - Data inserted for row 6.
+2024-10-15 16:31:39,813 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:31:39,814 - INFO - Data inserted for row 7.
+2024-10-15 16:31:39,816 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:31:39,818 - INFO - Data inserted for row 8.
+2024-10-15 16:31:39,819 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:31:39,821 - INFO - Data inserted for row 9.
+2024-10-15 16:31:39,823 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:31:39,824 - INFO - Data inserted for row 10.
+2024-10-15 16:31:39,825 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:31:39,827 - INFO - Data inserted for row 11.
+2024-10-15 16:31:39,827 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:31:39,829 - INFO - Data inserted for row 12.
+2024-10-15 16:31:39,830 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:31:39,831 - INFO - Data inserted for row 13.
+2024-10-15 16:31:39,832 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:31:39,833 - INFO - Data inserted for row 14.
+2024-10-15 16:31:39,835 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:31:39,836 - INFO - Data inserted for row 15.
+2024-10-15 16:31:39,837 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:31:39,839 - INFO - Data inserted for row 16.
+2024-10-15 16:31:39,840 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:31:39,841 - INFO - Data inserted for row 17.
+2024-10-15 16:31:39,842 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:31:39,843 - INFO - Data inserted for row 18.
+2024-10-15 16:31:39,844 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:31:39,845 - INFO - Data inserted for row 19.
+2024-10-15 16:31:39,845 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:31:39,846 - INFO - Data inserted for row 20.
+2024-10-15 16:31:39,847 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:31:39,848 - INFO - Data inserted for row 21.
+2024-10-15 16:31:39,849 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:31:39,851 - INFO - Data inserted for row 22.
+2024-10-15 16:31:39,852 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:31:39,853 - INFO - Data inserted for row 23.
+2024-10-15 16:31:39,854 - INFO - Processing row 24: zidane
+2024-10-15 16:31:39,856 - INFO - Data inserted for row 24.
+2024-10-15 16:31:39,857 - INFO - Processing row 25: zidane
+2024-10-15 16:31:39,858 - INFO - Data inserted for row 25.
+2024-10-15 16:31:39,859 - INFO - Processing row 26: zidane
+2024-10-15 16:31:39,860 - INFO - Data inserted for row 26.
+2024-10-15 16:31:39,861 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:31:39,862 - INFO - Data inserted for row 27.
+2024-10-15 16:31:39,863 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:31:39,864 - INFO - Data inserted for row 28.
+2024-10-15 16:31:39,865 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:31:39,867 - INFO - Data inserted for row 29.
+2024-10-15 16:31:39,868 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:31:39,870 - INFO - Data inserted for row 30.
+2024-10-15 16:31:39,872 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:31:39,874 - INFO - Data inserted for row 31.
+2024-10-15 16:31:39,875 - INFO - Processing row 32: bus
+2024-10-15 16:31:39,876 - INFO - Data inserted for row 32.
+2024-10-15 16:31:39,876 - INFO - Processing row 33: bus
+2024-10-15 16:31:39,878 - INFO - Data inserted for row 33.
+2024-10-15 16:31:39,878 - INFO - Processing row 34: bus
+2024-10-15 16:31:39,879 - INFO - Data inserted for row 34.
+2024-10-15 16:31:39,880 - INFO - Processing row 35: bus
+2024-10-15 16:31:39,881 - INFO - Data inserted for row 35.
+2024-10-15 16:31:39,882 - INFO - Processing row 36: bus
+2024-10-15 16:31:39,883 - INFO - Data inserted for row 36.
+2024-10-15 16:31:39,885 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:31:39,886 - INFO - Data inserted for row 37.
+2024-10-15 16:31:39,887 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:31:39,889 - INFO - Data inserted for row 38.
+2024-10-15 16:31:39,890 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:31:39,891 - INFO - Data inserted for row 39.
+2024-10-15 16:31:39,891 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:31:39,892 - INFO - Data inserted for row 40.
+2024-10-15 16:31:39,893 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:31:39,894 - INFO - Data inserted for row 41.
+2024-10-15 16:31:39,895 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:31:39,896 - INFO - Data inserted for row 42.
+2024-10-15 16:31:39,897 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:31:39,898 - INFO - Data inserted for row 43.
+2024-10-15 16:31:39,899 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:31:39,901 - INFO - Data inserted for row 44.
+2024-10-15 16:31:39,902 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:31:39,903 - INFO - Data inserted for row 45.
+2024-10-15 16:31:39,905 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:31:39,906 - INFO - Data inserted for row 46.
+2024-10-15 16:31:39,907 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:31:39,908 - INFO - Data inserted for row 47.
+2024-10-15 16:31:39,909 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:31:39,910 - INFO - Data inserted for row 48.
+2024-10-15 16:31:39,911 - INFO - Database connection closed.
+2024-10-15 16:32:37,666 - INFO - Scrapping data...
+2024-10-15 16:32:37,667 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:32:37,769 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:32:38,706 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:32:39,046 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:32:39,380 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:32:39,796 - INFO - Finished scraping @EAHCI
+2024-10-15 16:32:40,152 - INFO - Finished scraping @CheMed123
+2024-10-15 16:32:40,154 - INFO - Listening for real-time messages...
+2024-10-15 16:32:40,411 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:32:40,413 - INFO - Data inserted for row 0.
+2024-10-15 16:32:40,414 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:32:40,415 - INFO - Data inserted for row 1.
+2024-10-15 16:32:40,416 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:32:40,417 - INFO - Data inserted for row 2.
+2024-10-15 16:32:40,417 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:32:40,418 - INFO - Data inserted for row 3.
+2024-10-15 16:32:40,419 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:32:40,420 - INFO - Data inserted for row 4.
+2024-10-15 16:32:40,421 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:32:40,422 - INFO - Data inserted for row 5.
+2024-10-15 16:32:40,423 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:32:40,424 - INFO - Data inserted for row 6.
+2024-10-15 16:32:40,425 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:32:40,427 - INFO - Data inserted for row 7.
+2024-10-15 16:32:40,428 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:32:40,430 - INFO - Data inserted for row 8.
+2024-10-15 16:32:40,431 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:32:40,432 - INFO - Data inserted for row 9.
+2024-10-15 16:32:40,433 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:32:40,434 - INFO - Data inserted for row 10.
+2024-10-15 16:32:40,435 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:32:40,436 - INFO - Data inserted for row 11.
+2024-10-15 16:32:40,437 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:32:40,438 - INFO - Data inserted for row 12.
+2024-10-15 16:32:40,439 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:32:40,440 - INFO - Data inserted for row 13.
+2024-10-15 16:32:40,441 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:32:40,442 - INFO - Data inserted for row 14.
+2024-10-15 16:32:40,443 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:32:40,446 - INFO - Data inserted for row 15.
+2024-10-15 16:32:40,447 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:32:40,449 - INFO - Data inserted for row 16.
+2024-10-15 16:32:40,449 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:32:40,451 - INFO - Data inserted for row 17.
+2024-10-15 16:32:40,451 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:32:40,453 - INFO - Data inserted for row 18.
+2024-10-15 16:32:40,453 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:32:40,455 - INFO - Data inserted for row 19.
+2024-10-15 16:32:40,455 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:32:40,457 - INFO - Data inserted for row 20.
+2024-10-15 16:32:40,458 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:32:40,460 - INFO - Data inserted for row 21.
+2024-10-15 16:32:40,461 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:32:40,463 - INFO - Data inserted for row 22.
+2024-10-15 16:32:40,464 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:32:40,465 - INFO - Data inserted for row 23.
+2024-10-15 16:32:40,466 - INFO - Processing row 24: zidane
+2024-10-15 16:32:40,467 - INFO - Data inserted for row 24.
+2024-10-15 16:32:40,468 - INFO - Processing row 25: zidane
+2024-10-15 16:32:40,469 - INFO - Data inserted for row 25.
+2024-10-15 16:32:40,470 - INFO - Processing row 26: zidane
+2024-10-15 16:32:40,471 - INFO - Data inserted for row 26.
+2024-10-15 16:32:40,472 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:32:40,473 - INFO - Data inserted for row 27.
+2024-10-15 16:32:40,474 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:32:40,475 - INFO - Data inserted for row 28.
+2024-10-15 16:32:40,476 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:32:40,478 - INFO - Data inserted for row 29.
+2024-10-15 16:32:40,480 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:32:40,481 - INFO - Data inserted for row 30.
+2024-10-15 16:32:40,482 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:32:40,483 - INFO - Data inserted for row 31.
+2024-10-15 16:32:40,484 - INFO - Processing row 32: bus
+2024-10-15 16:32:40,486 - INFO - Data inserted for row 32.
+2024-10-15 16:32:40,487 - INFO - Processing row 33: bus
+2024-10-15 16:32:40,488 - INFO - Data inserted for row 33.
+2024-10-15 16:32:40,489 - INFO - Processing row 34: bus
+2024-10-15 16:32:40,490 - INFO - Data inserted for row 34.
+2024-10-15 16:32:40,491 - INFO - Processing row 35: bus
+2024-10-15 16:32:40,492 - INFO - Data inserted for row 35.
+2024-10-15 16:32:40,493 - INFO - Processing row 36: bus
+2024-10-15 16:32:40,495 - INFO - Data inserted for row 36.
+2024-10-15 16:32:40,497 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:32:40,498 - INFO - Data inserted for row 37.
+2024-10-15 16:32:40,499 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:32:40,500 - INFO - Data inserted for row 38.
+2024-10-15 16:32:40,501 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:32:40,502 - INFO - Data inserted for row 39.
+2024-10-15 16:32:40,503 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:32:40,504 - INFO - Data inserted for row 40.
+2024-10-15 16:32:40,505 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:32:40,506 - INFO - Data inserted for row 41.
+2024-10-15 16:32:40,507 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:32:40,509 - INFO - Data inserted for row 42.
+2024-10-15 16:32:40,510 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:32:40,512 - INFO - Data inserted for row 43.
+2024-10-15 16:32:40,513 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:32:40,514 - INFO - Data inserted for row 44.
+2024-10-15 16:32:40,515 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:32:40,517 - INFO - Data inserted for row 45.
+2024-10-15 16:32:40,518 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:32:40,520 - INFO - Data inserted for row 46.
+2024-10-15 16:32:40,521 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:32:40,524 - INFO - Data inserted for row 47.
+2024-10-15 16:32:40,535 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:32:40,550 - INFO - Data inserted for row 48.
+2024-10-15 16:32:40,551 - INFO - Database connection closed.
+2024-10-15 16:33:03,063 - INFO - Scrapping data...
+2024-10-15 16:33:03,064 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:33:03,165 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:33:04,393 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:33:04,981 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:33:05,428 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:33:05,773 - INFO - Finished scraping @EAHCI
+2024-10-15 16:33:06,093 - INFO - Finished scraping @CheMed123
+2024-10-15 16:33:06,093 - INFO - Listening for real-time messages...
+2024-10-15 16:33:06,329 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:33:06,330 - ERROR - Error executing query: relation "detected_imagea" does not exist
+LINE 2:             INSERT INTO detected_imagea (image, class, x_cen...
+                                ^
+
+2024-10-15 16:33:06,331 - INFO - Database connection closed.
+2024-10-15 16:35:34,018 - INFO - Scrapping data...
+2024-10-15 16:35:34,020 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:35:34,257 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:35:35,646 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:35:36,034 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:35:36,376 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:35:36,729 - INFO - Finished scraping @EAHCI
+2024-10-15 16:35:37,053 - INFO - Finished scraping @CheMed123
+2024-10-15 16:35:37,054 - INFO - Listening for real-time messages...
+2024-10-15 16:35:37,308 - INFO - Creating table detected_image...
+2024-10-15 16:35:37,324 - INFO - Table creation attempted.
+2024-10-15 16:35:37,329 - INFO - Database connection closed.
+2024-10-15 16:38:11,573 - INFO - Scrapping data...
+2024-10-15 16:38:11,575 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2024-10-15 16:38:11,677 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2024-10-15 16:38:12,591 - INFO - Finished scraping @DoctorsET
+2024-10-15 16:38:12,898 - INFO - Finished scraping @lobelia4cosmetics
+2024-10-15 16:38:13,230 - INFO - Finished scraping @yetenaweg
+2024-10-15 16:38:13,555 - INFO - Finished scraping @EAHCI
+2024-10-15 16:38:13,893 - INFO - Finished scraping @CheMed123
+2024-10-15 16:38:13,894 - INFO - Listening for real-time messages...
+2024-10-15 16:38:14,137 - INFO - Creating table detected_image...
+2024-10-15 16:38:14,157 - INFO - Table creation attempted.
+2024-10-15 16:38:14,158 - INFO - Processing row 0: lobelia4cosmetics_12471
+2024-10-15 16:38:14,159 - INFO - Data inserted for row 0.
+2024-10-15 16:38:14,161 - INFO - Processing row 1: lobelia4cosmetics_12480
+2024-10-15 16:38:14,162 - INFO - Data inserted for row 1.
+2024-10-15 16:38:14,163 - INFO - Processing row 2: CheMed123_71
+2024-10-15 16:38:14,164 - INFO - Data inserted for row 2.
+2024-10-15 16:38:14,165 - INFO - Processing row 3: CheMed123_71
+2024-10-15 16:38:14,166 - INFO - Data inserted for row 3.
+2024-10-15 16:38:14,167 - INFO - Processing row 4: lobelia4cosmetics_12479
+2024-10-15 16:38:14,169 - INFO - Data inserted for row 4.
+2024-10-15 16:38:14,170 - INFO - Processing row 5: CheMed123_67
+2024-10-15 16:38:14,171 - INFO - Data inserted for row 5.
+2024-10-15 16:38:14,172 - INFO - Processing row 6: lobelia4cosmetics_12470
+2024-10-15 16:38:14,173 - INFO - Data inserted for row 6.
+2024-10-15 16:38:14,174 - INFO - Processing row 7: CheMed123_81
+2024-10-15 16:38:14,175 - INFO - Data inserted for row 7.
+2024-10-15 16:38:14,175 - INFO - Processing row 8: CheMed123_81
+2024-10-15 16:38:14,177 - INFO - Data inserted for row 8.
+2024-10-15 16:38:14,178 - INFO - Processing row 9: CheMed123_81
+2024-10-15 16:38:14,179 - INFO - Data inserted for row 9.
+2024-10-15 16:38:14,180 - INFO - Processing row 10: CheMed123_81
+2024-10-15 16:38:14,180 - INFO - Data inserted for row 10.
+2024-10-15 16:38:14,181 - INFO - Processing row 11: CheMed123_81
+2024-10-15 16:38:14,182 - INFO - Data inserted for row 11.
+2024-10-15 16:38:14,182 - INFO - Processing row 12: CheMed123_93
+2024-10-15 16:38:14,184 - INFO - Data inserted for row 12.
+2024-10-15 16:38:14,185 - INFO - Processing row 13: CheMed123_95
+2024-10-15 16:38:14,186 - INFO - Data inserted for row 13.
+2024-10-15 16:38:14,187 - INFO - Processing row 14: lobelia4cosmetics_12493
+2024-10-15 16:38:14,189 - INFO - Data inserted for row 14.
+2024-10-15 16:38:14,190 - INFO - Processing row 15: CheMed123_59
+2024-10-15 16:38:14,191 - INFO - Data inserted for row 15.
+2024-10-15 16:38:14,192 - INFO - Processing row 16: lobelia4cosmetics_12472
+2024-10-15 16:38:14,193 - INFO - Data inserted for row 16.
+2024-10-15 16:38:14,194 - INFO - Processing row 17: CheMed123_82
+2024-10-15 16:38:14,195 - INFO - Data inserted for row 17.
+2024-10-15 16:38:14,196 - INFO - Processing row 18: CheMed123_82
+2024-10-15 16:38:14,197 - INFO - Data inserted for row 18.
+2024-10-15 16:38:14,198 - INFO - Processing row 19: CheMed123_82
+2024-10-15 16:38:14,200 - INFO - Data inserted for row 19.
+2024-10-15 16:38:14,201 - INFO - Processing row 20: CheMed123_82
+2024-10-15 16:38:14,202 - INFO - Data inserted for row 20.
+2024-10-15 16:38:14,203 - INFO - Processing row 21: CheMed123_80
+2024-10-15 16:38:14,205 - INFO - Data inserted for row 21.
+2024-10-15 16:38:14,206 - INFO - Processing row 22: CheMed123_80
+2024-10-15 16:38:14,207 - INFO - Data inserted for row 22.
+2024-10-15 16:38:14,208 - INFO - Processing row 23: CheMed123_76
+2024-10-15 16:38:14,209 - INFO - Data inserted for row 23.
+2024-10-15 16:38:14,210 - INFO - Processing row 24: zidane
+2024-10-15 16:38:14,211 - INFO - Data inserted for row 24.
+2024-10-15 16:38:14,212 - INFO - Processing row 25: zidane
+2024-10-15 16:38:14,213 - INFO - Data inserted for row 25.
+2024-10-15 16:38:14,214 - INFO - Processing row 26: zidane
+2024-10-15 16:38:14,215 - INFO - Data inserted for row 26.
+2024-10-15 16:38:14,217 - INFO - Processing row 27: CheMed123_77
+2024-10-15 16:38:14,219 - INFO - Data inserted for row 27.
+2024-10-15 16:38:14,220 - INFO - Processing row 28: CheMed123_77
+2024-10-15 16:38:14,222 - INFO - Data inserted for row 28.
+2024-10-15 16:38:14,223 - INFO - Processing row 29: CheMed123_77
+2024-10-15 16:38:14,224 - INFO - Data inserted for row 29.
+2024-10-15 16:38:14,225 - INFO - Processing row 30: CheMed123_77
+2024-10-15 16:38:14,226 - INFO - Data inserted for row 30.
+2024-10-15 16:38:14,227 - INFO - Processing row 31: CheMed123_77
+2024-10-15 16:38:14,228 - INFO - Data inserted for row 31.
+2024-10-15 16:38:14,228 - INFO - Processing row 32: bus
+2024-10-15 16:38:14,229 - INFO - Data inserted for row 32.
+2024-10-15 16:38:14,230 - INFO - Processing row 33: bus
+2024-10-15 16:38:14,231 - INFO - Data inserted for row 33.
+2024-10-15 16:38:14,232 - INFO - Processing row 34: bus
+2024-10-15 16:38:14,233 - INFO - Data inserted for row 34.
+2024-10-15 16:38:14,234 - INFO - Processing row 35: bus
+2024-10-15 16:38:14,236 - INFO - Data inserted for row 35.
+2024-10-15 16:38:14,237 - INFO - Processing row 36: bus
+2024-10-15 16:38:14,238 - INFO - Data inserted for row 36.
+2024-10-15 16:38:14,238 - INFO - Processing row 37: CheMed123_96
+2024-10-15 16:38:14,240 - INFO - Data inserted for row 37.
+2024-10-15 16:38:14,240 - INFO - Processing row 38: CheMed123_86
+2024-10-15 16:38:14,242 - INFO - Data inserted for row 38.
+2024-10-15 16:38:14,243 - INFO - Processing row 39: CheMed123_86
+2024-10-15 16:38:14,244 - INFO - Data inserted for row 39.
+2024-10-15 16:38:14,245 - INFO - Processing row 40: CheMed123_86
+2024-10-15 16:38:14,250 - INFO - Data inserted for row 40.
+2024-10-15 16:38:14,252 - INFO - Processing row 41: CheMed123_75
+2024-10-15 16:38:14,254 - INFO - Data inserted for row 41.
+2024-10-15 16:38:14,255 - INFO - Processing row 42: CheMed123_94
+2024-10-15 16:38:14,257 - INFO - Data inserted for row 42.
+2024-10-15 16:38:14,258 - INFO - Processing row 43: CheMed123_94
+2024-10-15 16:38:14,260 - INFO - Data inserted for row 43.
+2024-10-15 16:38:14,261 - INFO - Processing row 44: CheMed123_70
+2024-10-15 16:38:14,262 - INFO - Data inserted for row 44.
+2024-10-15 16:38:14,263 - INFO - Processing row 45: CheMed123_70
+2024-10-15 16:38:14,264 - INFO - Data inserted for row 45.
+2024-10-15 16:38:14,265 - INFO - Processing row 46: CheMed123_70
+2024-10-15 16:38:14,266 - INFO - Data inserted for row 46.
+2024-10-15 16:38:14,267 - INFO - Processing row 47: CheMed123_70
+2024-10-15 16:38:14,269 - INFO - Data inserted for row 47.
+2024-10-15 16:38:14,270 - INFO - Processing row 48: CheMed123_92
+2024-10-15 16:38:14,271 - INFO - Data inserted for row 48.
+2024-10-15 16:48:53,623 - INFO - Got difference for account updates
+2024-10-15 16:52:56,535 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 16:56:13,588 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 16:56:42,431 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 16:57:51,201 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 16:59:11,211 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:01:13,721 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:03:13,923 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:09:06,604 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:14:01,229 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:19:25,821 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:26:36,483 - INFO - Got difference for account updates
+2024-10-15 17:34:26,093 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:41:10,487 - ERROR - Unhandled exception on real_time_message_handler
+Traceback (most recent call last):
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/scripts/createW_H_Impl.py", line 96, in real_time_message_handler
+    mess_text = ' '.join(re.findall(text_reg, message.message))
+AttributeError: 'str' object has no attribute 'message'
+2024-10-15 17:42:05,886 - ERROR - Unhandled exception on real_time_message_handler
+Traceback (most recent call last):
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/scripts/createW_H_Impl.py", line 96, in real_time_message_handler
+    mess_text = ' '.join(re.findall(text_reg, message.message))
+AttributeError: 'str' object has no attribute 'message'
+2024-10-15 17:43:45,108 - INFO - Got difference for channel 2197711891 updates
