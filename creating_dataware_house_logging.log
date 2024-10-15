@@ -2571,3 +2571,22 @@ Traceback (most recent call last):
     mess_text = ' '.join(re.findall(text_reg, message.message))
 AttributeError: 'str' object has no attribute 'message'
 2024-10-15 17:43:45,108 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:53:21,481 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 17:54:20,761 - ERROR - Unhandled exception on real_time_message_handler
+Traceback (most recent call last):
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/.venv/lib/python3.10/site-packages/telethon/client/updates.py", line 570, in _dispatch_update
+    await callback(event)
+  File "/home/osho/Projects/10AcadameyDADSML/10AcademyWeek7Analysis/scripts/createW_H_Impl.py", line 96, in real_time_message_handler
+    mess_text = ' '.join(re.findall(text_reg, message.message))
+AttributeError: 'str' object has no attribute 'message'
+2024-10-15 17:54:21,416 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:00:47,387 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:03:21,716 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:03:25,179 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:06:21,792 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:11:37,138 - INFO - Got difference for account updates
+2024-10-15 18:11:37,340 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:13:22,008 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:18:55,814 - INFO - Got difference for channel 2197711891 updates
+2024-10-15 18:41:37,514 - INFO - Got difference for channel 1838427920 updates
+2024-10-15 18:53:29,665 - INFO - Got difference for channel 2197711891 updates
